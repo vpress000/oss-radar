@@ -1,0 +1,14 @@
+[project]
+name = "oss-radar"
+version = "0.1.0"
+description = "Weekly directory of new and rising open-source repos, with the SF Bay Area and the rest of the US highlighted."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

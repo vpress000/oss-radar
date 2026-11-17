@@ -1,0 +1,3 @@
+# Repos (owner/repo) or whole owners (owner) to always include.
+# They skip the star bars and free rules, and stay listed even if the Claude review drops them.
+# They still have to be less than 12 months old to appear. One entry per line.

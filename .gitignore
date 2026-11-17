@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+# Local dry runs write here instead of the repo
+.dryrun/
+*.log

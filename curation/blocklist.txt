@@ -1,0 +1,2 @@
+# Repos (owner/repo) or whole owners (owner) to never list, for example after a removal request.
+# The next run hides them; their history stays in data/. One entry per line.

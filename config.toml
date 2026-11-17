@@ -1,0 +1,49 @@
+# oss-radar settings: every threshold and limit the scanner uses.
+
+[site]
+repo = "vpress000/oss-radar"
+
+[discovery]
+new_window_days = 30         # "New & notable": repos created in the last N days
+new_search_min_stars = 50    # lowest section bar; the [bars] below filter further
+traction_window_days = 365   # traction pool age limit; repos freeze after this
+traction_min_stars = 1000    # repos at or above this join the traction pool
+
+[bars]                       # "New & notable" star bar for each section
+sf-bay-area = 50
+rest-of-us = 50
+outside-us = 250
+location-unknown = 250
+
+[rules]
+# A repo is treated as a likely star farm when all three hold: the owner account was
+# created within this many days of the repo, nothing was pushed after the first N hours,
+# and it has no forks.
+star_farm_owner_age_days = 30
+star_farm_max_push_hours = 24
+
+[review]
+model = "claude-opus-5-5"
+effort = "low"
+batch_size = 25              # repos per Claude call
+max_per_run = 300            # cap per run, to share your Claude Code limits
+readme_chars = 4000          # about 1,000 tokens of README text
+re_review_after_days = 90    # a rejected repo is looked at again after this long...
+re_review_min_stars = 1000   # ...but only if it has reached this many stars
+max_attempts = 3             # unreadable replies before a repo waits for next week
+
+[traction]
+snapshots_kept = 13          # weekly star counts kept per repo (about a quarter)
+min_days_between_snapshots = 6
+fastest_min_gain = 100       # "Fastest growing" needs at least this many new stars
+file_top_n = 25              # per ranking, per section, in the weekly file
+readme_top_n = 3             # per ranking, per section, on the README
+lookahead = 40               # how far down each ranking unreviewed repos are queued
+
+[readme]
+new_top_n = 5                # "New this week" cards per section
+new_days = 7
+
+[render]
+max_file_bytes = 400000      # split Markdown files before GitHub stops rendering them
+description_max_chars = 300

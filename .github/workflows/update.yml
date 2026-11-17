@@ -1,0 +1,136 @@
+name: Update directory
+
+on:
+  schedule:
+    - cron: "17 9 * * 1"       # Mondays 09:17 UTC (about 1-2 AM Pacific): weekly full run
+    - cron: "17 9 * * 0,2-6"   # other nights: catch-up reviews; exits fast when none are waiting
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to run"
+        type: choice
+        options: [full, catch-up, render-only]
+        default: full
+      max_reviews:
+        description: "Cap on Claude reviews this run (blank = config default)"
+        type: string
+        default: ""
+      dry_run:
+        description: "Skip Claude and don't commit"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # commit the updated lists
+  actions: write    # keep-alive: stops GitHub disabling the schedule after 60 quiet days
+  issues: write     # open an issue when the Claude token needs renewing
+
+concurrency:
+  group: oss-radar-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Pick mode
+        id: pick
+        env:
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+          INPUT_MODE: ${{ inputs.mode }}
+        run: |
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            mode="$INPUT_MODE"
+          elif [ "$SCHEDULE" = "17 9 * * 1" ]; then
+            mode=full
+          else
+            mode=catch-up
+          fi
+          waiting=$(python -m radar backlog)
+          skip=false
+          if [ "$mode" = "catch-up" ] && [ "$waiting" = "0" ]; then skip=true; fi
+          echo "Mode: $mode; waiting for review: $waiting; skip: $skip"
+          {
+            echo "mode=$mode"
+            echo "skip=$skip"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Install Claude Code CLI
+        if: steps.pick.outputs.skip != 'true' && steps.pick.outputs.mode != 'render-only' && inputs.dry_run != true
+        run: npm install -g @anthropic-ai/claude-code@2
+
+      - name: Run oss-radar
+        id: run
+        if: steps.pick.outputs.skip != 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.RADAR_TOKEN || github.token }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          MODE: ${{ steps.pick.outputs.mode }}
+          MAX_REVIEWS: ${{ inputs.max_reviews }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          args=("$MODE")
+          if [ -n "$MAX_REVIEWS" ]; then args+=(--max-reviews "$MAX_REVIEWS"); fi
+          if [ "$DRY_RUN" = "true" ]; then args+=(--no-review); fi
+          python -m radar "${args[@]}"
+
+      - name: Commit and push
+        if: steps.pick.outputs.skip != 'true' && inputs.dry_run != true
+        env:
+          MODE: ${{ steps.pick.outputs.mode }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md lists data
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          if [ "$MODE" = "full" ]; then
+            message="Weekly update $(date -u +%G-W%V)"
+          else
+            message="Catch-up reviews $(date -u +%F)"
+          fi
+          git commit -m "$message"
+          git pull --rebase
+          git push
+
+      - name: Keep the schedule alive
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow enable update.yml --repo "$GITHUB_REPOSITORY" || true
+
+      - name: Report Claude token problems
+        if: steps.run.outputs.claude_problem != '' || steps.run.outputs.token_expires_soon != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROBLEM: ${{ steps.run.outputs.claude_problem }}
+          EXPIRES: ${{ steps.run.outputs.token_expires_soon }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          title="Claude token needs attention"
+          if [ -n "$PROBLEM" ]; then
+            body="Claude reviews stopped: \`$PROBLEM\` ([run]($RUN_URL)). Repos keep being discovered, but nothing new is reviewed or listed."
+          else
+            body="The Claude token expires on $EXPIRES."
+          fi
+          body="$body
+
+          To fix it, run \`claude setup-token\` on your computer, then:
+
+              gh secret set CLAUDE_CODE_OAUTH_TOKEN -R $GITHUB_REPOSITORY"
+          existing=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "\"$title\" in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --repo "$GITHUB_REPOSITORY" --body "$body"
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$title" --body "$body"
+          fi
