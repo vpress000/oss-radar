@@ -77,6 +77,14 @@ jobs:
           MAX_REVIEWS: ${{ inputs.max_reviews }}
           DRY_RUN: ${{ inputs.dry_run }}
         run: |
+          # A token copied from a terminal can pick up line breaks or quotes; drop them
+          CLAUDE_CODE_OAUTH_TOKEN="$(printf '%s' "$CLAUDE_CODE_OAUTH_TOKEN" | tr -d "[:space:]\"'")"
+          export CLAUDE_CODE_OAUTH_TOKEN
+          case "$CLAUDE_CODE_OAUTH_TOKEN" in
+            "") echo "Claude token: not set" ;;
+            sk-ant-oat*) echo "Claude token: setup-token format, ${#CLAUDE_CODE_OAUTH_TOKEN} characters" ;;
+            *) echo "::warning::CLAUDE_CODE_OAUTH_TOKEN should be the sk-ant-oat... token printed by 'claude setup-token'" ;;
+          esac
           args=("$MODE")
           if [ -n "$MAX_REVIEWS" ]; then args+=(--max-reviews "$MAX_REVIEWS"); fi
           if [ "$DRY_RUN" = "true" ]; then args+=(--no-review); fi
