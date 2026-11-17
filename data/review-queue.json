@@ -1,255 +1,255 @@
 {
   "updated": "2026-11-17",
-  "waiting": 1270,
+  "waiting": 971,
   "next": [
     {
-      "repo": "devploit/php2shell",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "dbreunig/nesformer",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "MZULALI/xj-scanner",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "aidenybai/tla-ts",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "mjshiggins/dopplertrack",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "nickvasilescu/grokbot-clone",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "jushengzhang/CE-Graph",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "lucialuka/OpenAssembler",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "facebookresearch/InteractiveWorld",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "azlen/initialis",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "nickvasilescu/parallax",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "0xCodez/iphone-mirror-windows",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "jushengzhang/robot-weight-debugging",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "9929y/genai-mesh-gradient",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "garrytan/g-harness-evals",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "sp00nznet/recomp-launcher",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "rauchg/vinyl",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "reason-machines/aspen",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "BlockRunAI/agent-money-bench",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "NVIDIA/nsight-perf-sdk-for-ai",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "0xCodez/pulsr",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "zeekk0/OpenSakura",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "saksham10arora-dotcom/everything-claude-codex",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "noahcao/FAH",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "nyacg/pagedb",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "lukeed/html",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "andrewboldi/tmux-restore",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "loopj/tinysd",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "gozwei/popso",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "anubhavmalhotra/r2d2-tv",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "0xCodez/leviathan",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "rauchg/winamp-ui-sdk",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "hanxiao/DeepSeek-V4.1-Flash-1017-FP8-abliterated-4x-RTX-PRO-6000",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "lalalune/hyperliquid-source",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "eshaangulati123/perfectclone",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "9xz/reverseakamai",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "sdylewski/Analog-Redial",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "kaibohex/muscle-supermimic",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "AKamaly/CludeGods",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "simonw/beep-locator",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "t3dotgg/tstack",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "EthanArbuckle/fairplay-decrypt",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "lyramakesmusic/neuron-explorer",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "lxe/phoneuse",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "nickvasilescu/bot-hq",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "joeblau/subvox",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "zeekk0/OpenAmika",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "rauchg/xeet",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "Pika-Labs/Pika-H3-Flex",
+      "repo": "google-gemini/demolab",
       "section": "rest-of-us",
       "why": "new"
     },
     {
-      "repo": "morganlinton/BeautifulRust",
+      "repo": "VoltAgent/awesome-design-md",
       "section": "rest-of-us",
+      "why": "traction"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "storytold/craft-anything",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "stablyai/orca",
+      "section": "rest-of-us",
+      "why": "traction"
+    },
+    {
+      "repo": "karpathy/autoresearch",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "storytold/photocraft",
+      "section": "location-unknown",
+      "why": "traction"
+    },
+    {
+      "repo": "Niko1221/Strata",
+      "section": "outside-us",
+      "why": "traction"
+    },
+    {
+      "repo": "paperclipai/paperclip",
+      "section": "rest-of-us",
+      "why": "traction"
+    },
+    {
+      "repo": "Ebony-Vinyl/dsh-our-free-model",
+      "section": "location-unknown",
+      "why": "traction"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "yetone/magpie",
+      "section": "outside-us",
+      "why": "traction"
+    },
+    {
+      "repo": "blader/humanizer",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "deepseek-ai/dsh-superagent-prototype",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "libracoder/kiri",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "section": "location-unknown",
+      "why": "traction"
+    },
+    {
+      "repo": "browser-use/jev-ultrafast",
+      "section": "rest-of-us",
+      "why": "traction"
+    },
+    {
+      "repo": "anefzaoui/misterdownloadmanager",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "garrytan/gbrain",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "KnifeLemon/Filee",
+      "section": "outside-us",
+      "why": "traction"
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-Go",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "section": "outside-us",
+      "why": "traction"
+    },
+    {
+      "repo": "eternity4719/HowToLiveBetter",
+      "section": "location-unknown",
+      "why": "traction"
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "section": "rest-of-us",
+      "why": "traction"
+    },
+    {
+      "repo": "zarazhangrui/frontend-slides",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "boykopovar/AnyPS5",
+      "section": "outside-us",
+      "why": "traction"
+    },
+    {
+      "repo": "NVIDIA/SkillSpector",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "google/elephant-goldfish-model",
+      "section": "rest-of-us",
+      "why": "traction"
+    },
+    {
+      "repo": "huamidev/GestaltX",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "section": "outside-us",
+      "why": "traction"
+    },
+    {
+      "repo": "heydamir/unslop",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "petergyang/no-ai-slop",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "section": "rest-of-us",
+      "why": "traction"
+    },
+    {
+      "repo": "meta/astryx",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "wangzan101/Mika",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "deepseek-ai/chat-demo",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Leonxlnx/taste-skill",
+      "section": "outside-us",
+      "why": "traction"
+    },
+    {
+      "repo": "deepseek-ai/DeepInfer",
+      "section": "location-unknown",
+      "why": "traction"
+    },
+    {
+      "repo": "NVIDIA/NemoClaw",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "section": "location-unknown",
+      "why": "traction"
+    },
+    {
+      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "section": "outside-us",
+      "why": "traction"
+    },
+    {
+      "repo": "anywhere-labs/dsh-desktop",
+      "section": "outside-us",
+      "why": "traction"
+    },
+    {
+      "repo": "wheresryan22/anatomy",
+      "section": "location-unknown",
+      "why": "traction"
+    },
+    {
+      "repo": "nesquena/hermes-webui",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "career-ops-hq/career-ops",
+      "section": "outside-us",
+      "why": "traction"
+    },
+    {
+      "repo": "ifixai-ai/iFixAi",
+      "section": "rest-of-us",
+      "why": "traction"
+    },
+    {
+      "repo": "oso95/scroll-world",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "janestreet/agent_skills",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "NVIDIA/OpenShell",
+      "section": "sf-bay-area",
+      "why": "traction"
+    },
+    {
+      "repo": "Minireel/HGhub",
+      "section": "location-unknown",
       "why": "new"
     }
   ]

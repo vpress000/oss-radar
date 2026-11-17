@@ -7,9 +7,9 @@ A weekly directory of **new and fast-rising open-source repositories**, with the
 
 Every listed repo has been checked by Claude to make sure it is real software that solves a specific problem.
 
-_Updated 2026-11-17 · 5 repos listed · 5,272 tracked · 1,270 waiting for review_
+_Updated 2026-11-17 · 246 repos listed · 5,214 tracked · 971 waiting for review_
 
-> ⏳ **1,270 repos are waiting for review.** Claude checks up to 300 a night, and each repo appears here once it passes.
+> ⏳ **971 repos are waiting for review.** Claude checks up to 300 a night, and each repo appears here once it passes.
 
 ## 🔥 Gaining traction this week
 
@@ -19,45 +19,105 @@ _First week: ranked by stars per day since creation; weekly gains start next wee
 
 #### Most stars per day since creation
 
-##### [NVIDIA/hyperflare-inference](https://github.com/NVIDIA/hyperflare-inference)
-**What it solves:** Local LLM inference server tuned for NVIDIA SM120/SM121 GPUs, aimed at long agent conversations and tool use. · `AI & ML`
+##### [garrytan/gstack](https://github.com/garrytan/gstack)
+**What it solves:** Set of coding-agent slash commands for planning, review, QA in a real browser and shipping PRs. · `Developer Tools`
 
-`Python` · ★ 813 · 117 forks · Apache-2.0 · created 2026-10-20 · last push 2026-11-16\
-by **NVIDIA** (NVIDIA Corporation · org) · 📍 2788 San Tomas Expressway, Santa Clara, CA, 95051
+> Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 
-##### [0xCodez/DuoDesk](https://github.com/0xCodez/DuoDesk)
-**What it solves:** Shares mouse, keyboard, screens, files, clipboard, camera and phone features across Mac, Windows, Linux and Android. · `Mobile & Desktop`
+`TypeScript` · ★ 141,829 · 20,948 forks · MIT · created 2026-03-11 · last push 2026-11-16\
+by **garrytan** (Garry Tan) · 📍 San Francisco, CA
 
-> All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0
+##### [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+**What it solves:** Coding-agent skill running multi-phase security audits with verified, schema-validated findings. · `Security`
 
-`JavaScript` · ★ 514 · 86 forks · GPL-3.0 · created 2026-10-30 · last push 2026-10-31\
-by **0xCodez** (Beyond Dev) · 📍 San Francisco
+> A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-##### [justrach/nanolight](https://github.com/justrach/nanolight)
-**What it solves:** Native keyboard launcher for apps, math, currency, web search and Raycast extensions on Mac, Windows and Linux. · `Mobile & Desktop`
+`JavaScript` · ★ 74,059 · 4,960 forks · MIT · created 2026-06-18 · last push 2026-09-14\
+by **cloudflare** (Cloudflare · org) · 📍 San Francisco, London, Austin, Lisbon, Singapore
 
-> A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X
+##### [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer)
+**What it solves:** Lets researchers steer every MLP neuron in Qwen3.5-4B and browse the resulting outputs. · `AI & ML`
 
-`Zig` · ★ 403 · 33 forks · MIT · created 2026-11-02 · last push 2026-11-14\
-by **justrach** (Rach) · 📍 Singapore / San Francisco
+> Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results
+
+`Python` · ★ 1,992 · 249 forks · MIT · created 2026-10-21 · last push 2026-11-02\
+by **lyramakesmusic** (Lyra C) · 📍 San Francisco
 
 ### Rest of US
 
 #### Most stars per day since creation
 
-_Nothing to show yet._
+##### [affaan-m/ECC](https://github.com/affaan-m/ECC)
+**What it solves:** Bundle of agents, skills, hooks, memory and security scanning to structure coding-agent workflows. · `Developer Tools`
+
+> The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+
+`JavaScript` · ★ 304,732 · 44,879 forks · MIT · created 2026-01-18 · last push 2026-11-17\
+by **affaan-m** (Affaan Mustafa) · 📍 NYC
+
+##### [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+**What it solves:** Builds a queryable knowledge graph of a codebase and its docs using AST parsing for coding assistants. · `Developer Tools`
+
+> Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+
+`Python` · ★ 149,122 · 14,333 forks · Apache-2.0 · created 2026-04-03 · last push 2026-11-16\
+by **Graphify-Labs** (Graphify Labs · org) · 📍 United States of America
+
+##### [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
+**What it solves:** Provides 244 code-based pixel art effects for browser games plus sprite sheet export and an agent skill for new ones. · `Games & Media`
+
+> 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+
+`JavaScript` · ★ 7,786 · 1,022 forks · MIT · created 2026-10-30 · last push 2026-11-13\
+by **patch-gg** (patch · org) · 📍 United States of America
 
 ### Outside US
 
 #### Most stars per day since creation
 
-_Nothing to show yet._
+##### [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+**What it solves:** Disables Android TV bloatware over ADB and installs a minimal launcher, with full restore. · `Hardware & IoT`
+
+> Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
+`Python` · ★ 58,728 · 7,676 forks · other license · created 2026-10-17 · last push 2026-11-16\
+by **Gathin23** (Gathin) · 📍 India
+
+##### [mattpocock/skills](https://github.com/mattpocock/skills)
+**What it solves:** Small composable agent skills for aligning on requirements, triage and engineering workflows. · `Developer Tools`
+
+> Skills for Real Engineers. Straight from my .agents directory.
+
+`Shell` · ★ 326,043 · 27,375 forks · MIT · created 2026-02-03 · last push 2026-11-13\
+by **mattpocock** (Matt Pocock) · 📍 Oxfordshire
+
+##### [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+**What it solves:** Rust implementation of a CLI coding-agent harness, maintained by agents. · `Developer Tools`
+
+> An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
+
+`Rust` · ★ 194,762 · 107,262 forks · MIT · created 2026-03-31 · last push 2026-11-10\
+by **ultraworkers** (Ultraworkers - ULW · org) · 📍 Canada
 
 ### Location unknown
 
 #### Most stars per day since creation
 
-_Nothing to show yet._
+##### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+**What it solves:** Plugin-based open-source agent harness with web UI from DeepSeek. · `AI & ML`
+
+> DeepSeek Harness: Everything is a Plugin.
+
+`TypeScript` · ★ 282,461 · 34,986 forks · MIT · created 2026-08-13 · last push 2026-11-13\
+by **deepseek-ai** (DeepSeek · org)
+
+##### [morluto/rea](https://github.com/morluto/rea)
+**What it solves:** MCP server and CLI letting agents reverse engineer binaries, Electron apps, .NET and websites with evidence. · `Security`
+
+> Reverse engineer anything with agents, from app behavior down to native binaries.
+
+`TypeScript` · ★ 464,459 · 113,676 forks · MIT · created 2026-04-14 · last push 2026-11-17\
+by **morluto** · 📍 Sinsai
 
 → [Full ranking for 2026-W47](lists/traction/2026-W47.md)
 
@@ -65,49 +125,83 @@ _Nothing to show yet._
 
 ### SF Bay Area
 
+#### [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer)
+**What it solves:** Lets researchers steer every MLP neuron in Qwen3.5-4B and browse the resulting outputs. · `AI & ML`
+
+> Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results
+
+`Python` · ★ 1,992 · 249 forks · MIT · created 2026-10-21 · last push 2026-11-02\
+by **lyramakesmusic** (Lyra C) · 📍 San Francisco
+
+#### [joeblau/subvox](https://github.com/joeblau/subvox)
+**What it solves:** Tests whether AirPods head-motion data can recognize silently mouthed words. · `Science & Research`
+
+`Swift` · ★ 839 · 122 forks · MIT · created 2026-10-31 · last push 2026-10-31\
+by **joeblau** (Joe Blau) · 📍 San Francisco, CA
+
 #### [NVIDIA/hyperflare-inference](https://github.com/NVIDIA/hyperflare-inference)
 **What it solves:** Local LLM inference server tuned for NVIDIA SM120/SM121 GPUs, aimed at long agent conversations and tool use. · `AI & ML`
 
 `Python` · ★ 813 · 117 forks · Apache-2.0 · created 2026-10-20 · last push 2026-11-16\
 by **NVIDIA** (NVIDIA Corporation · org) · 📍 2788 San Tomas Expressway, Santa Clara, CA, 95051
 
-#### [blendi-remade/prompt2rig](https://github.com/blendi-remade/prompt2rig)
-**What it solves:** Turns a text motion prompt into 3D body and finger animation on a rigged Mixamo character for Blender or Unity. · `Games & Media`
+#### [lxe/phoneuse](https://github.com/lxe/phoneuse)
+**What it solves:** Lets users or AI agents view and control an unmodified iPhone from a computer. · `Mobile & Desktop`
 
-> Type a motion, watch a rigged character perform it: fast video model \+ GVHMR \+ live Mixamo retargeting, by Patch
+> See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.
 
-`JavaScript` · ★ 581 · 86 forks · Apache-2.0 · created 2026-10-19 · last push 2026-11-09\
-by **blendi-remade** (Blendi) · 📍 San Francisco
+`Python` · ★ 673 · 65 forks · MIT · created 2026-11-07 · last push 2026-11-15\
+by **lxe** (Aleksey Smolenchuk) · 📍 San Francisco, CA
 
-#### [0xCodez/DuoDesk](https://github.com/0xCodez/DuoDesk)
-**What it solves:** Shares mouse, keyboard, screens, files, clipboard, camera and phone features across Mac, Windows, Linux and Android. · `Mobile & Desktop`
+#### [zeekk0/OpenAmika](https://github.com/zeekk0/OpenAmika)
+**What it solves:** Runs a local AI companion with a Live2D avatar, voice chat and long-term memory. · `AI & ML`
 
-> All your computers and your phone, working as one desk. Aurora redesign of TwinDesk. GPL-3.0
+> OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.
 
-`JavaScript` · ★ 514 · 86 forks · GPL-3.0 · created 2026-10-30 · last push 2026-10-31\
-by **0xCodez** (Beyond Dev) · 📍 San Francisco
-
-#### [justrach/nanolight](https://github.com/justrach/nanolight)
-**What it solves:** Native keyboard launcher for apps, math, currency, web search and Raycast extensions on Mac, Windows and Linux. · `Mobile & Desktop`
-
-> A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X
-
-`Zig` · ★ 403 · 33 forks · MIT · created 2026-11-02 · last push 2026-11-14\
-by **justrach** (Rach) · 📍 Singapore / San Francisco
-
-#### [0xCodez/cleanly](https://github.com/0xCodez/cleanly)
-**What it solves:** Disk cleaner for Windows and macOS that finds caches, large files and duplicates and frees space safely. · `Mobile & Desktop`
-
-> Cleanly — a stylish, safe PC cleaner for Windows and macOS
-
-`TypeScript` · ★ 395 · 57 forks · no license · created 2026-10-29 · last push 2026-11-03\
-by **0xCodez** (Beyond Dev) · 📍 San Francisco
+`Python` · ★ 669 · 85 forks · other license · created 2026-11-03 · last push 2026-11-10\
+by **zeekk0** (Zeekk - MekaHime) · 📍 Sunnyvale, CA
 
 → [All SF Bay Area repos found in November 2026](lists/new/2026-11/sf-bay-area.md)
 
 ### Rest of US
 
-_Nothing new this week yet._
+#### [unclebob/ub-mode](https://github.com/unclebob/ub-mode)
+**What it solves:** Agent skill that enforces disciplined engineering practices paired with quality-gate tools like CRAP and mutation testing. · `Developer Tools`
+
+★ 8,064 · 459 forks · MIT · created 2026-10-25 · last push 2026-11-02\
+by **unclebob** (Robert C. Martin) · 📍 Gurnee, IL
+
+#### [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
+**What it solves:** Provides 244 code-based pixel art effects for browser games plus sprite sheet export and an agent skill for new ones. · `Games & Media`
+
+> 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+
+`JavaScript` · ★ 7,786 · 1,022 forks · MIT · created 2026-10-30 · last push 2026-11-13\
+by **patch-gg** (patch · org) · 📍 United States of America
+
+#### [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)
+**What it solves:** IELTS vocabulary app with illustrations, audio and FSRS spaced repetition, plus an open word dataset. · `Other`
+
+> 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app \+ CC BY 4.0 dataset.
+
+`TypeScript` · ★ 4,943 · 1,049 forks · other license · created 2026-10-25 · last push 2026-11-13\
+by **designfuchen** (Boxin Yang) · 📍 Texas
+
+#### [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)
+**What it solves:** Linux kernel module enabling full-rate FP32-accumulate tensor throughput on RTX 4090 and some Ada GPUs. · `Hardware & IoT`
+
+> GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
+
+`C` · ★ 4,921 · 644 forks · GPL-2.0 · created 2026-10-23 · last push 2026-10-26\
+by **JustAResearcher** (Tim) · 📍 Wisconsin, USA
+
+#### [expo/exact](https://github.com/expo/exact)
+**What it solves:** Cross-platform app runtime that renders one declarative UI natively on web, macOS, iOS and Linux, testable by agents. · `Mobile & Desktop`
+
+> Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
+
+`Rust` · ★ 4,506 · 119 forks · MIT · created 2026-11-02 · last push 2026-11-17\
+by **expo** (Expo · org) · 📍 United States of America
 
 → [All Rest of US repos found in November 2026](lists/new/2026-11/rest-of-us.md)
 
