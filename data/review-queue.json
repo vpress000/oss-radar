@@ -1,32 +1,7 @@
 {
   "updated": "2026-11-17",
-  "waiting": 1275,
+  "waiting": 1270,
   "next": [
-    {
-      "repo": "NVIDIA/hyperflare-inference",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "blendi-remade/prompt2rig",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "0xCodez/DuoDesk",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "justrach/nanolight",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
-    {
-      "repo": "0xCodez/cleanly",
-      "section": "sf-bay-area",
-      "why": "new"
-    },
     {
       "repo": "devploit/php2shell",
       "section": "sf-bay-area",
@@ -250,6 +225,31 @@
     {
       "repo": "nickvasilescu/bot-hq",
       "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "joeblau/subvox",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "zeekk0/OpenAmika",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "rauchg/xeet",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "Pika-Labs/Pika-H3-Flex",
+      "section": "rest-of-us",
+      "why": "new"
+    },
+    {
+      "repo": "morganlinton/BeautifulRust",
+      "section": "rest-of-us",
       "why": "new"
     }
   ]
