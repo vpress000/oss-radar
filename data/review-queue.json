@@ -1,0 +1,256 @@
+{
+  "updated": "2026-11-17",
+  "waiting": 1275,
+  "next": [
+    {
+      "repo": "NVIDIA/hyperflare-inference",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "blendi-remade/prompt2rig",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "0xCodez/DuoDesk",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "justrach/nanolight",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "0xCodez/cleanly",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "devploit/php2shell",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "dbreunig/nesformer",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "MZULALI/xj-scanner",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "aidenybai/tla-ts",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "mjshiggins/dopplertrack",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "nickvasilescu/grokbot-clone",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "jushengzhang/CE-Graph",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "lucialuka/OpenAssembler",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "facebookresearch/InteractiveWorld",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "azlen/initialis",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "nickvasilescu/parallax",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "0xCodez/iphone-mirror-windows",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "jushengzhang/robot-weight-debugging",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "9929y/genai-mesh-gradient",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "garrytan/g-harness-evals",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "sp00nznet/recomp-launcher",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "rauchg/vinyl",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "reason-machines/aspen",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "BlockRunAI/agent-money-bench",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "NVIDIA/nsight-perf-sdk-for-ai",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "0xCodez/pulsr",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "zeekk0/OpenSakura",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "saksham10arora-dotcom/everything-claude-codex",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "noahcao/FAH",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "nyacg/pagedb",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "lukeed/html",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "andrewboldi/tmux-restore",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "loopj/tinysd",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "gozwei/popso",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "anubhavmalhotra/r2d2-tv",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "0xCodez/leviathan",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "rauchg/winamp-ui-sdk",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "hanxiao/DeepSeek-V4.1-Flash-1017-FP8-abliterated-4x-RTX-PRO-6000",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "lalalune/hyperliquid-source",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "eshaangulati123/perfectclone",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "9xz/reverseakamai",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "sdylewski/Analog-Redial",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "kaibohex/muscle-supermimic",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "AKamaly/CludeGods",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "simonw/beep-locator",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "t3dotgg/tstack",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "EthanArbuckle/fairplay-decrypt",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "lyramakesmusic/neuron-explorer",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "lxe/phoneuse",
+      "section": "sf-bay-area",
+      "why": "new"
+    },
+    {
+      "repo": "nickvasilescu/bot-hq",
+      "section": "sf-bay-area",
+      "why": "new"
+    }
+  ]
+}
