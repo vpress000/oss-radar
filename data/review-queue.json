@@ -1,254 +1,254 @@
 {
-  "updated": "2026-11-17",
-  "waiting": 971,
+  "updated": "2026-11-18",
+  "waiting": 721,
   "next": [
     {
-      "repo": "google-gemini/demolab",
-      "section": "rest-of-us",
-      "why": "new"
-    },
-    {
-      "repo": "VoltAgent/awesome-design-md",
-      "section": "rest-of-us",
-      "why": "traction"
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "storytold/craft-anything",
+      "repo": "s1dashu/quiet-md",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "stablyai/orca",
-      "section": "rest-of-us",
-      "why": "traction"
-    },
-    {
-      "repo": "karpathy/autoresearch",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "storytold/photocraft",
-      "section": "location-unknown",
-      "why": "traction"
-    },
-    {
-      "repo": "Niko1221/Strata",
-      "section": "outside-us",
-      "why": "traction"
-    },
-    {
-      "repo": "paperclipai/paperclip",
-      "section": "rest-of-us",
-      "why": "traction"
-    },
-    {
-      "repo": "Ebony-Vinyl/dsh-our-free-model",
-      "section": "location-unknown",
-      "why": "traction"
-    },
-    {
-      "repo": "Alishahryar1/free-claude-code",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "yetone/magpie",
-      "section": "outside-us",
-      "why": "traction"
-    },
-    {
-      "repo": "blader/humanizer",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "deepseek-ai/dsh-superagent-prototype",
+      "repo": "ZiChuanLan/agent-purge",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "libracoder/kiri",
+      "repo": "daveebbelaar/bama",
       "section": "outside-us",
       "why": "new"
     },
     {
-      "repo": "DietrichGebert/ponytail",
-      "section": "location-unknown",
-      "why": "traction"
-    },
-    {
-      "repo": "browser-use/jev-ultrafast",
-      "section": "rest-of-us",
-      "why": "traction"
-    },
-    {
-      "repo": "anefzaoui/misterdownloadmanager",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "garrytan/gbrain",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "KnifeLemon/Filee",
-      "section": "outside-us",
-      "why": "traction"
-    },
-    {
-      "repo": "ccch1mneyyy/dsh-Go",
+      "repo": "jacke-pp/open-yoki",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "JuliusBrussee/caveman",
-      "section": "outside-us",
-      "why": "traction"
-    },
-    {
-      "repo": "eternity4719/HowToLiveBetter",
-      "section": "location-unknown",
-      "why": "traction"
-    },
-    {
-      "repo": "ayghri/i-have-adhd",
-      "section": "rest-of-us",
-      "why": "traction"
-    },
-    {
-      "repo": "zarazhangrui/frontend-slides",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "boykopovar/AnyPS5",
-      "section": "outside-us",
-      "why": "traction"
-    },
-    {
-      "repo": "NVIDIA/SkillSpector",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "google/elephant-goldfish-model",
-      "section": "rest-of-us",
-      "why": "traction"
-    },
-    {
-      "repo": "huamidev/GestaltX",
+      "repo": "yjid/kensaku",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "debpalash/VoiceStudio",
-      "section": "outside-us",
-      "why": "traction"
-    },
-    {
-      "repo": "heydamir/unslop",
+      "repo": "BookracyFOS/bookracy",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "petergyang/no-ai-slop",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "Nutlope/hallmark",
-      "section": "rest-of-us",
-      "why": "traction"
-    },
-    {
-      "repo": "meta/astryx",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "wangzan101/Mika",
+      "repo": "Arjun-Ingole/hop",
       "section": "outside-us",
       "why": "new"
     },
     {
-      "repo": "deepseek-ai/chat-demo",
+      "repo": "NiazMorshed2007/reanimate",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "Leonxlnx/taste-skill",
+      "repo": "shirai91/nx2android",
       "section": "outside-us",
-      "why": "traction"
+      "why": "new"
     },
     {
-      "repo": "deepseek-ai/DeepInfer",
-      "section": "location-unknown",
-      "why": "traction"
-    },
-    {
-      "repo": "NVIDIA/NemoClaw",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "section": "location-unknown",
-      "why": "traction"
-    },
-    {
-      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "section": "outside-us",
-      "why": "traction"
-    },
-    {
-      "repo": "anywhere-labs/dsh-desktop",
-      "section": "outside-us",
-      "why": "traction"
-    },
-    {
-      "repo": "wheresryan22/anatomy",
-      "section": "location-unknown",
-      "why": "traction"
-    },
-    {
-      "repo": "nesquena/hermes-webui",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "career-ops-hq/career-ops",
-      "section": "outside-us",
-      "why": "traction"
-    },
-    {
-      "repo": "ifixai-ai/iFixAi",
-      "section": "rest-of-us",
-      "why": "traction"
-    },
-    {
-      "repo": "oso95/scroll-world",
-      "section": "sf-bay-area",
-      "why": "traction"
-    },
-    {
-      "repo": "janestreet/agent_skills",
+      "repo": "anonnerdfrenzy/survival-llm",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "NVIDIA/OpenShell",
-      "section": "sf-bay-area",
-      "why": "traction"
+      "repo": "HybridRobotics/supermimic",
+      "section": "location-unknown",
+      "why": "new"
     },
     {
-      "repo": "Minireel/HGhub",
+      "repo": "HRuiCcc/RuiC-PoseAtlas",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "chadyi/StudyOnTV",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "AhmadHassan-BTed/RainGen-RainGenerator",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "toyxyz/toyxyz_RGBMocap",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "9bie/php2shell-bypass-aslr-exp",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "livliv-dev/player",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "JosssphZhou/poki",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "neuregex/freefield",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "openai/php2shell-checker",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "woniuniuniu/dsh-media-desk",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Seagey/couch-tv",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "cutetailbud/ff-ruyijs",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "egoist/mygo-music",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "sqlpxc/airhand",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "farhatullah0006-art/rx-11-audio-editor-config",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "muddinenilakshmilalithaksh-create/sp-flash-tool",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "RafliAbdulHaliim/sylenth-1-enhancement-suite",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Forgavin/ultra-iso-desktop-setup",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "arthurrossetocampos1-crypto/uttorent-desktop",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "parthkshirsagar2456-blip/voicemod-desktop-edition",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "pravinpote1985/serato-dj-pro-2026",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "FarhanNaem/startall-back",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "braazo/systemcare-pro",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "thiagoaureliomartins-programador/chief-architect-premier",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Paulinho182/hitfilm-desktop-installer",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "mirkobrombin/raven",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "Th0rgal/satmux",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "rerun-build/rerun",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "Sakshimodi14/fonepaw-unlocker-setup",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "mxhm11cr/LinuxRunner",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "kolbicz/WQFiles",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "Marker284/yandex-station-extended",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "KillaBoi/StealMyBitcoin-PoC",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "andrew-babo/muse4ai",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "vnaurudo/php-storm-desktop-setup",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Vibha-Ramprakash/claude-video-effects",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Minglink/dsh-jailbreak-workflow",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "assetnote/php2shell-scanner",
       "section": "location-unknown",
       "why": "new"
     }

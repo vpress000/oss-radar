@@ -2,9 +2,9 @@
 
 [← Back to the README](../../../README.md) · Sections: [SF Bay Area](sf-bay-area.md) · **Rest of US** · [Outside US](outside-us.md) · [Location unknown](location-unknown.md)
 
-192 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-17.
+193 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-18.
 
-**Categories:** [AI & ML](#ai--ml) (45) · [Developer Tools](#developer-tools) (40) · [Infrastructure & DevOps](#infrastructure--devops) (7) · [Data & Databases](#data--databases) (4) · [Security](#security) (12) · [Web & Frontend](#web--frontend) (14) · [Mobile & Desktop](#mobile--desktop) (18) · [Science & Research](#science--research) (15) · [Hardware & IoT](#hardware--iot) (9) · [Finance & Crypto](#finance--crypto) (2) · [Games & Media](#games--media) (22) · [Other](#other) (4)
+**Categories:** [AI & ML](#ai--ml) (46) · [Developer Tools](#developer-tools) (40) · [Infrastructure & DevOps](#infrastructure--devops) (7) · [Data & Databases](#data--databases) (4) · [Security](#security) (12) · [Web & Frontend](#web--frontend) (14) · [Mobile & Desktop](#mobile--desktop) (18) · [Science & Research](#science--research) (15) · [Hardware & IoT](#hardware--iot) (9) · [Finance & Crypto](#finance--crypto) (2) · [Games & Media](#games--media) (22) · [Other](#other) (4)
 
 ## AI & ML
 
@@ -285,6 +285,14 @@ by **cacheMon** (org) · 📍 United States of America
 
 `Python` · ★ 75 · 13 forks · MIT · created 2026-10-19 · last push 2026-10-22\
 by **microsoft** (Microsoft · org) · 📍 Redmond, WA
+
+### [google-gemini/demolab](https://github.com/google-gemini/demolab)
+**What it solves:** Agent skills from the Gemini team that help coding agents design and build polished frontends and demos. · `AI & ML`
+
+> Skills, prompts, and scripts used to build and reproduce Gemini model demos
+
+★ 71 · 3 forks · Apache-2.0 · created 2026-10-20 · last push 2026-11-10\
+by **google-gemini** (org) · 📍 United States of America
 
 ### [markrussinovich/venn-vdm](https://github.com/markrussinovich/venn-vdm)
 **What it solves:** Small local decision layer that answers typed routing and scoring questions over embeddings. · `AI & ML`
