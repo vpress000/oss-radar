@@ -2,9 +2,9 @@
 
 [← Back to the README](../../../README.md) · Sections: [SF Bay Area](sf-bay-area.md) · [Rest of US](rest-of-us.md) · [Outside US](outside-us.md) · **Location unknown**
 
-63 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-18.
+172 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-19.
 
-**Categories:** [AI & ML](#ai--ml) (14) · [Developer Tools](#developer-tools) (9) · [Infrastructure & DevOps](#infrastructure--devops) (1) · [Data & Databases](#data--databases) (1) · [Security](#security) (5) · [Web & Frontend](#web--frontend) (5) · [Mobile & Desktop](#mobile--desktop) (13) · [Science & Research](#science--research) (2) · [Hardware & IoT](#hardware--iot) (1) · [Finance & Crypto](#finance--crypto) (1) · [Games & Media](#games--media) (11)
+**Categories:** [AI & ML](#ai--ml) (39) · [Developer Tools](#developer-tools) (25) · [Infrastructure & DevOps](#infrastructure--devops) (3) · [Data & Databases](#data--databases) (2) · [Security](#security) (10) · [Web & Frontend](#web--frontend) (14) · [Mobile & Desktop](#mobile--desktop) (30) · [Science & Research](#science--research) (4) · [Hardware & IoT](#hardware--iot) (6) · [Finance & Crypto](#finance--crypto) (1) · [Games & Media](#games--media) (37) · [Other](#other) (1)
 
 ## AI & ML
 
@@ -120,6 +120,204 @@ by **mdiri-ai** (org)
 `Python` · ★ 1,124 · 108 forks · no license · created 2026-10-26 · last push 2026-11-05\
 by **deepopen-com**
 
+### [rerun-build/rerun](https://github.com/rerun-build/rerun)
+**What it solves:** Self-hostable platform for scheduling AI agents that use your tools and ask before acting. · `AI & ML`
+
+> AI coworkers that run your work. Self-hostable, AGPL-3.0.
+
+`TypeScript` · ★ 1,087 · 131 forks · AGPL-3.0 · created 2026-10-29 · last push 2026-11-16\
+by **rerun-build** (Rerun · org)
+
+### [Vibha-Ramprakash/claude-video-effects](https://github.com/Vibha-Ramprakash/claude-video-effects)
+**What it solves:** Adds 51 face-tracking video effects to Claude Code for editing talking-head short videos. · `AI & ML`
+
+> 51 free video effects for Claude Code: drop in a talking-head clip, type /effects orbit. Face tracking, behind-your-head layers. From Hop Studio by @vibha.in.progress
+
+`Python` · ★ 1,018 · 237 forks · other license · created 2026-10-22 · last push 2026-11-12\
+by **Vibha-Ramprakash** (Vibha Ramprakash)
+
+### [Minglink/dsh-jailbreak-workflow](https://github.com/Minglink/dsh-jailbreak-workflow)
+**What it solves:** Plugin for designing LLM task workflows on a canvas that compile into a plan prompt. · `AI & ML`
+
+> DSH 破甲词制作作工作流
+
+`TypeScript` · ★ 1,017 · 347 forks · other license · created 2026-11-01 · last push 2026-11-13\
+by **Minglink**
+
+### [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills)
+**What it solves:** Toolkit of roles and skills for one person to coordinate multi-agent AI work with review and handoff. · `AI & ML`
+
+> Human-led MAS toolkit: 16 roles, 6 group templates, four platform bundles, evidence-based review and handoff. 一人成队：一个人统筹多智能体协作。
+
+`HTML` · ★ 978 · 111 forks · MIT · created 2026-11-07 · last push 2026-11-15\
+by **dabingfy-dot**
+
+### [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR)
+**What it solves:** Document parsing OCR model with a region-level checker that flags unreliable OCR output. · `AI & ML`
+
+> Fast, accurate OCR with correctness assessment.
+
+`TypeScript` · ★ 966 · 70 forks · Apache-2.0 · created 2026-10-27 · last push 2026-11-16\
+by **OpenBMB** (org)
+
+### [huaxialucaicaizi/ai-startup-skills](https://github.com/huaxialucaicaizi/ai-startup-skills)
+**What it solves:** Agent skills that take solo AI founders from idea validation through registration. · `AI & ML`
+
+> 创业公司做 AI 产品的 7 步 Agent Skill 合集：验证 → BP → 政策 → 路演 → 获客 → 定价 → 注册。
+
+`Python` · ★ 930 · 65 forks · other license · created 2026-10-22 · last push 2026-11-16\
+by **huaxialucaicaizi** (华夏路菜菜子)
+
+### [cyber-xiaoya/cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live)
+**What it solves:** Runs an LLM-driven digital human for live streams that reacts to danmaku with speech and actions. · `AI & ML`
+
+> 赛博小雅直播版 · 组件版数字人（Vidu s2）· 免费开源 AGPL-3.0 · 作者：天工开帧（抖音/B站/YouTube 同名）
+
+`Python` · ★ 895 · 369 forks · AGPL-3.0 · created 2026-10-24 · last push 2026-11-16\
+by **cyber-xiaoya** (AI少女宇宙计划组 · org)
+
+### [divagr18/qwenputer](https://github.com/divagr18/qwenputer)
+**What it solves:** Compiles an exact RISC-V CPU into Qwen3.5-4B weights, using DeltaNet state as RAM. · `AI & ML`
+
+> A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gated DeltaNet state as RAM.
+
+`Python` · ★ 824 · 110 forks · other license · created 2026-10-19 · last push 2026-11-09\
+by **divagr18** (Divyansh Agrawal)
+
+### [Mieksido/surfcore](https://github.com/Mieksido/surfcore)
+**What it solves:** Gives a DeepSeek Harness agent a persona with memory that chats on QQ and Bilibili and as a desktop pet. · `AI & ML`
+
+`JavaScript` · ★ 759 · 90 forks · other license · created 2026-10-26 · last push 2026-11-12\
+by **Mieksido**
+
+### [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer)
+**What it solves:** Agent skill that rewrites AI-generated text into plain, simplified technical English. · `AI & ML`
+
+> STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 \(Simplified Technical English\), the method Andrej Karpathy shared.
+
+`Python` · ★ 747 · 56 forks · MIT · created 2026-11-09 · last push 2026-11-14\
+by **Dodaios** (org)
+
+### [anomalyco/browse](https://github.com/anomalyco/browse)
+**What it solves:** Lets AI agents control your real Chromium browser, with your logins, through an MCP server and an extension. · `AI & ML`
+
+> Let your AI agents use your real browser: an MCP server and a Chromium extension
+
+`TypeScript` · ★ 730 · 59 forks · MIT · created 2026-10-27 · last push 2026-11-17\
+by **anomalyco** (Anomaly · org)
+
+### [Robbyant/lingbot-touch](https://github.com/Robbyant/lingbot-touch)
+**What it solves:** Foundation model for learning shared tactile representations across sensors, for dexterous robotic manipulation. · `AI & ML`
+
+> Learning Heterogeneous Tactile Representation for General Dexterous Manipulation
+
+`Python` · ★ 724 · 10 forks · Apache-2.0 · created 2026-11-09 · last push 2026-11-11\
+by **Robbyant** (org)
+
+### [andyhuo520/vibe-knowledge](https://github.com/andyhuo520/vibe-knowledge)
+**What it solves:** Claude Code skill that turns a topic into a narrated, sourced explainer video rendered from code. · `AI & ML`
+
+> Vibe 知识大赏：一个知识点 → 一条有旁白、每句有出处的精品知识短片（Claude Code skill · 44 套风格 · 代码逐帧成片）
+
+`JavaScript` · ★ 689 · 108 forks · MIT · created 2026-10-28 · last push 2026-10-28\
+by **andyhuo520**
+
+### [SAOS-3624/dsh-see-now](https://github.com/SAOS-3624/dsh-see-now)
+**What it solves:** Streams only changed screen frames, tiled into one image, so an AI can watch your screen cheaply. · `AI & ML`
+
+> 让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token
+
+`JavaScript` · ★ 673 · 70 forks · Apache-2.0 · created 2026-11-01 · last push 2026-11-16\
+by **SAOS-3624**
+
+### [OpenSenseNova/SenseNova-6.8-Code2Video](https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video)
+**What it solves:** Open model that makes short videos by writing and rendering executable code. · `AI & ML`
+
+> The first open-source model for code-driven video creation.
+
+`Python` · ★ 670 · 65 forks · no license · created 2026-10-24 · last push 2026-10-27\
+by **OpenSenseNova** (SenseNova · org)
+
+### [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca)
+**What it solves:** Tiny English text-to-speech model that runs on a CPU or in the browser. · `AI & ML`
+
+> A 4.5M-parameter two-voice English text-to-speech model, trained from scratch
+
+`Python` · ★ 629 · 74 forks · Apache-2.0 · created 2026-11-14 · last push 2026-11-16\
+by **n4ze3m** (Muhammed Nazeem) · 📍 Internal Server Error
+
+### [BigPizzaV3/ClaudeMom](https://github.com/BigPizzaV3/ClaudeMom)
+**What it solves:** Runs a local service so Claude Desktop works in full login mode while using your own API key and base URL. · `AI & ML`
+
+> 不用 Claude 账号！把 API Key 变成登录模式，Claude 桌面版全功能解锁（汉化 / 语音 / 电脑控制）
+
+`Rust` · ★ 560 · 114 forks · AGPL-3.0 · created 2026-11-12 · last push 2026-11-16\
+by **BigPizzaV3**
+
+### [MemTensor/MemT-1.0](https://github.com/MemTensor/MemT-1.0)
+**What it solves:** Language models with built-in persistent memory that keep earlier conversation without the full context. · `AI & ML`
+
+> Official repository for MemT-1.0
+
+`Python` · ★ 541 · 43 forks · other license · created 2026-10-19 · last push 2026-11-08\
+by **MemTensor** (OpenMem · org)
+
+### [wquguru/shisei](https://github.com/wquguru/shisei)
+**What it solves:** CC0 library of mannequin line-art poses from five angles for use as references in AI image tools. · `AI & ML`
+
+> 💃 Free CC0 mannequin pose reference library for AI image tools \(Nano Banana, ChatGPT, ComfyUI, Midjourney\) — 250\+ poses × 5 angles in line art, names in ja/zh/en/ko
+
+`Python` · ★ 537 · 112 forks · Apache-2.0 · created 2026-10-29 · last push 2026-11-14\
+by **wquguru** (WquGuru)
+
+### [undrgrnd-labs/hunch](https://github.com/undrgrnd-labs/hunch)
+**What it solves:** Fast embedding classifier that learns from a slower teacher model to answer repeated yes/no questions. · `AI & ML`
+
+> a systemone proxy using embeddings that distills a teacher model
+
+`Python` · ★ 515 · 44 forks · Apache-2.0 · created 2026-10-21 · last push 2026-11-09\
+by **undrgrnd-labs** (Underground Labs · org)
+
+### [imraywang/ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop)
+**What it solves:** Agent skill that turns one photo into a consistent set of animated stickers packaged for WeChat. · `AI & ML`
+
+> 一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill）
+
+`Python` · ★ 509 · 58 forks · MIT · created 2026-11-05 · last push 2026-11-05\
+by **imraywang** (Ray Wang) · 📍 on earch
+
+### [chutingyean/Agent-Cockpit](https://github.com/chutingyean/Agent-Cockpit)
+**What it solves:** Tracks evidence chains for AI research agents so claims are flagged when the underlying code or runs change. · `AI & ML`
+
+> Evidence-chain whiteboard \+ MCP server for AI research agents: every claim traces back to the run and code that produced it. 讓 AI agent 做研究時，每個結論都能追到產生它的程式碼。Claude Code · Codex · Cursor · Gemini CLI
+
+`JavaScript` · ★ 505 · 13 forks · AGPL-3.0 · created 2026-10-26 · last push 2026-11-06\
+by **chutingyean**
+
+### [C4rohan/Lampline](https://github.com/C4rohan/Lampline)
+**What it solves:** Build, test and run AI phone agents locally, with Dialogflow CX import and AI-caller grading. · `AI & ML`
+
+> Build AI phone agents on your own computer and test every change with an AI caller. Open source, runs free with no API keys, cents per call with your own keys. Imports Dialogflow CX.
+
+`Python` · ★ 494 · 50 forks · Apache-2.0 · created 2026-10-19 · last push 2026-11-16\
+by **C4rohan** (Rohan Salvi)
+
+### [google-deepmind/detectorscope](https://github.com/google-deepmind/detectorscope)
+**What it solves:** Builds AI-text detectors whose predictions decompose into named, interpretable SAE features. · `AI & ML`
+
+> Build AI text detectors whose decisions are mechanistically grounded and human-auditable \(EMNLP 2026\)
+
+`Python` · ★ 488 · 44 forks · Apache-2.0 · created 2026-10-24 · last push 2026-10-24\
+by **google-deepmind** (Google DeepMind · org)
+
+### [dotslashsimran/simcraft](https://github.com/dotslashsimran/simcraft)
+**What it solves:** Set of Claude Code skills with tested scripts for video, engineering and design tasks. · `AI & ML`
+
+> my claude skills for everyday work
+
+`Python` · ★ 483 · 37 forks · MIT · created 2026-11-05 · last push 2026-11-09\
+by **dotslashsimran** (Simran Sachdeva)
+
 ## Developer Tools
 
 ### [storytold/craft-anything](https://github.com/storytold/craft-anything)
@@ -194,6 +392,130 @@ by **oinkvm** (OINK · org)
 `C` · ★ 1,119 · 73 forks · MIT · created 2026-11-05 · last push 2026-11-16\
 by **yappologistic**
 
+### [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill)
+**What it solves:** Agent skill and engine for animating SVG art in React Native and SwiftUI. · `Developer Tools`
+
+> Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.
+
+`Swift` · ★ 843 · 70 forks · MIT · created 2026-10-22 · last push 2026-10-22\
+by **rossark0** (Ross) · 📍 World
+
+### [harshsinghsv/swiftdl](https://github.com/harshsinghsv/swiftdl)
+**What it solves:** Multi-connection resumable download manager with a browser extension for desktop systems. · `Developer Tools`
+
+> Fast, resumable download manager with a browser extension. Many connections per file, instant resume, IDM-style download windows. Rust \+ Tauri.
+
+`Rust` · ★ 761 · 40 forks · MIT · created 2026-10-30 · last push 2026-11-13\
+by **harshsinghsv** (Harsh)
+
+### [Roland0511/dsh-marktext](https://github.com/Roland0511/dsh-marktext)
+**What it solves:** WYSIWYG Markdown editor plugin for the DeepSeek Harness sidebar with PDF export. · `Developer Tools`
+
+> MarkText \(muya\) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar
+
+`JavaScript` · ★ 742 · 50 forks · MIT · created 2026-11-02 · last push 2026-11-07\
+by **Roland0511** (lizhou.zhu)
+
+### [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack)
+**What it solves:** Installable agent skills and workflows for keeping AI-written code quality high in coding agents. · `Developer Tools`
+
+> The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.
+
+`JavaScript` · ★ 726 · 49 forks · MIT · created 2026-10-28 · last push 2026-11-11\
+by **MiniMax-AI** (MiniMax · org)
+
+### [yalongwastaken/git-koi](https://github.com/yalongwastaken/git-koi)
+**What it solves:** Generates a pixel-art koi GIF from a GitHub account's activity for profile READMEs. · `Developer Tools`
+
+> Draw a pixel-art koi from a GitHub account's public activity, as a looping GIF for a profile README.
+
+`Rust` · ★ 675 · 65 forks · MIT · created 2026-10-26 · last push 2026-11-16\
+by **yalongwastaken** (Anthony)
+
+### [DEEIX-AI/Winc](https://github.com/DEEIX-AI/Winc)
+**What it solves:** Fast, lightweight desktop code editor with Git, a terminal and support for very large files. · `Developer Tools`
+
+> Winc is built with Rust and its own rendering engine: it starts in 0.1 seconds and uses just 52 MB of memory with 100,000 lines open. Multiple cursors, find and replace, and side-by-side diffs are all there, and every keystroke and scroll responds instantly.
+
+`Rust` · ★ 669 · 72 forks · Apache-2.0 · created 2026-11-04 · last push 2026-11-16\
+by **DEEIX-AI** (org)
+
+### [mochiiwuff/capri-desktop](https://github.com/mochiiwuff/capri-desktop)
+**What it solves:** Animated desktop character that shows what Claude Code, Codex or Antigravity is doing. · `Developer Tools`
+
+> Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.
+
+`JavaScript` · ★ 637 · 127 forks · other license · created 2026-10-25 · last push 2026-11-09\
+by **mochiiwuff** · 📍 Rouen
+
+### [phuryn/product-engineering](https://github.com/phuryn/product-engineering)
+**What it solves:** Agent skill packs for planning, building, reviewing and releasing products with coding agents. · `Developer Tools`
+
+> 45 agent skills from shipping three live products: decide what to build, build it with Claude Code or Codex, have a second model review it, release it.
+
+`Python` · ★ 616 · 84 forks · MIT · created 2026-10-29 · last push 2026-11-16\
+by **phuryn** (Pawel Huryn)
+
+### [KardDev/dsh-plugins](https://github.com/KardDev/dsh-plugins)
+**What it solves:** Plugins for DeepSeek Harness adding cost tracking, motion UI canvases and decision analysis. · `Developer Tools`
+
+`JavaScript` · ★ 557 · 3 forks · no license · created 2026-10-21 · last push 2026-10-30\
+by **KardDev** (Kard)
+
+### [uumit-ai/dsh-uumit-remote](https://github.com/uumit-ai/dsh-uumit-remote)
+**What it solves:** Lets you reach a local DeepSeek Harness from a phone or other computer through a UUMit tunnel. · `Developer Tools`
+
+`JavaScript` · ★ 523 · 15 forks · MIT · created 2026-10-19 · last push 2026-10-21\
+by **uumit-ai** (org)
+
+### [Innei/ryugi](https://github.com/Innei/ryugi)
+**What it solves:** Lets coding agents present mockups, docs and verify reports that users can comment on and send back. · `Developer Tools`
+
+> Ryugi \(ryoo-ghee\) — artifacts for coding agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent. Install artifacts only, or the full brainstorm → spec → TDD workflow. Claude Code, Codex and more.
+
+`JavaScript` · ★ 511 · 22 forks · other license · created 2026-10-19 · last push 2026-11-16\
+by **Innei** · 📍 Vibing..
+
+### [ShuaiMXu/happyhands](https://github.com/ShuaiMXu/happyhands)
+**What it solves:** Local tool that lets coding agents capture, diagnose and fix UI problems with before/after evidence. · `Developer Tools`
+
+> Open-source, AI-assisted UI design review for coding agents. Inspect screenshots, scope code changes and compare results in a local workbench. Alpha.
+
+`JavaScript` · ★ 508 · 10 forks · MIT · created 2026-10-25 · last push 2026-11-17\
+by **ShuaiMXu**
+
+### [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts)
+**What it solves:** QuickJS fork that can snapshot and resume running JS across processes, with native TypeScript. · `Developer Tools`
+
+> QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another process. Native TypeScript, a REPL that survives restarts, Rust bindings.
+
+`C` · ★ 494 · 9 forks · other license · created 2026-10-19 · last push 2026-11-16\
+by **stencil-hq** (Stencil · org)
+
+### [Cattmonkey/ChaosIntelligence](https://github.com/Cattmonkey/ChaosIntelligence)
+**What it solves:** Functional programming language where AI agents are callable values, with CLI and web IDE. · `Developer Tools`
+
+> 把智能体当函数，把想法写成程序。Agent-native functional language with a CLI, Web IDE, goal-driven bots and live UI. Source-available; no AI training.
+
+`Python` · ★ 482 · 0 forks · other license · created 2026-10-23 · last push 2026-10-24\
+by **Cattmonkey**
+
+### [paulirish/chrome-capture](https://github.com/paulirish/chrome-capture)
+**What it solves:** Records Chrome tabs at high frame rates to AV1 MP4 via the new CDP recording API. · `Developer Tools`
+
+> 60-120fps / 2160p tab video/audio capture from Chrome
+
+`TypeScript` · ★ 481 · 8 forks · Apache-2.0 · created 2026-11-08 · last push 2026-11-11\
+by **paulirish** (Paul Irish)
+
+### [RabbittuX/purrge](https://github.com/RabbittuX/purrge)
+**What it solves:** Warns when disk space runs low and uses a local AI agent to suggest cleanup items that you approve before deletion. · `Developer Tools`
+
+> 🐾 Purrge — macOS AI 磁盘清理工具，支持 Claude Code 和 Codex：空间不足时提醒，AI 逐项判断能清什么，你勾选确认后才清理
+
+`Python` · ★ 468 · 43 forks · other license · created 2026-10-20 · last push 2026-11-14\
+by **RabbittuX**
+
 ## Infrastructure & DevOps
 
 ### [serveroshq/panel](https://github.com/serveroshq/panel)
@@ -204,6 +526,22 @@ by **yappologistic**
 `PHP` · ★ 1,104 · 105 forks · AGPL-3.0 · created 2026-11-09 · last push 2026-11-17\
 by **serveroshq** (ServerOS · org)
 
+### [zeabur-oss/zeabur](https://github.com/zeabur-oss/zeabur)
+**What it solves:** Self-hosted PaaS that shows and manages services on your own Kubernetes cluster. · `Infrastructure & DevOps`
+
+> Self-hosted PaaS on your own Kubernetes.
+
+`Rust` · ★ 684 · 113 forks · Apache-2.0 · created 2026-10-24 · last push 2026-11-17\
+by **zeabur-oss** (Zeabur Open Source · org)
+
+### [xmwengxing/CFPilot](https://github.com/xmwengxing/CFPilot)
+**What it solves:** Deploys a Cloudflare Workers/Pages proxy and picks the best Cloudflare IPs by testing real connections. · `Infrastructure & DevOps`
+
+> Cloudflare Workers 代理微内核 · 真连接优选面板 · 一键部署（VLESS/Trojan/XHTTP \+ 优选订阅 \+ 本地真连接优选器 \+ 中文部署向导）
+
+`TypeScript` · ★ 533 · 246 forks · AGPL-3.0 · created 2026-10-21 · last push 2026-11-15\
+by **xmwengxing** (世敬天)
+
 ## Data & Databases
 
 ### [lexifina/global-law](https://github.com/lexifina/global-law)
@@ -213,6 +551,14 @@ by **serveroshq** (ServerOS · org)
 
 `HTML` · ★ 2,071 · 190 forks · other license · created 2026-10-28 · last push 2026-11-17\
 by **lexifina** (Lexifina · org)
+
+### [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow)
+**What it solves:** Self-hosted analytics tracking AI crawlers, AI search referrals and content coverage for websites. · `Data & Databases`
+
+> Self-hosted web and AI crawler analytics for Generative Engine Optimization \(GEO\). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.
+
+`TypeScript` · ★ 853 · 260 forks · MIT · created 2026-10-26 · last push 2026-11-14\
+by **yaojingang** (YAO)
 
 ## Security
 
@@ -256,6 +602,46 @@ by **ikow** (Qi Deng)
 `Go` · ★ 1,217 · 194 forks · MIT · created 2026-10-25 · last push 2026-11-16\
 by **DrWhax** (Jurre van Bergen) · 📍 The internet
 
+### [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner)
+**What it solves:** Scans PHP applications to detect the php2shell memory-exhaustion vulnerabilities. · `Security`
+
+> High fidelity scanner for php2shell \(CVE-2026-109618 and CVE-2026-109619\)
+
+`Python` · ★ 1,009 · 147 forks · MIT · created 2026-10-22 · last push 2026-10-24\
+by **assetnote** (Assetnote · org)
+
+### [hevnsnt/CVEngine](https://github.com/hevnsnt/CVEngine)
+**What it solves:** Self-hosted attack surface discovery that validates which new CVEs affect your hosts. · `Security`
+
+> AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.
+
+`Python` · ★ 740 · 120 forks · GPL-3.0 · created 2026-10-24 · last push 2026-11-17\
+by **hevnsnt**
+
+### [yt1988/who-are-you](https://github.com/yt1988/who-are-you)
+**What it solves:** Shows what websites can infer about you from browser fingerprinting and detects VPN or proxy leaks. · `Security`
+
+> Who do websites think you are? A privacy self-check: every sniffer any site can run, the portrait they paint, and the contradictions that give away a VPN or proxy
+
+`HTML` · ★ 701 · 105 forks · MIT · created 2026-11-01 · last push 2026-11-17\
+by **yt1988** (Tao)
+
+### [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query)
+**What it solves:** Proof-of-concept iOS 26/27 sandbox escape giving apps access to other containers. · `Security`
+
+> A sandbox escape for iOS 26 and 27, again
+
+`Objective-C` · ★ 690 · 161 forks · GPL-3.0 · created 2026-11-08 · last push 2026-11-08\
+by **forcequitOS** (Taj \(forcequit\))
+
+### [jmanico/grim-prompter](https://github.com/jmanico/grim-prompter)
+**What it solves:** Structured threat-modeling workflows that coding agents run against a repo to produce findings traced to code. · `Security`
+
+> Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.
+
+★ 517 · 43 forks · MIT · created 2026-10-28 · last push 2026-11-08\
+by **jmanico** (Jim Manico)
+
 ## Web & Frontend
 
 ### [heydamir/unslop](https://github.com/heydamir/unslop)
@@ -297,6 +683,78 @@ by **Motionsites-AI** (Motionsites AI · org)
 
 `TypeScript` · ★ 1,190 · 207 forks · MIT · created 2026-11-12 · last push 2026-11-16\
 by **ZiChuanLan** (Lan)
+
+### [lochie/skullet](https://github.com/lochie/skullet)
+**What it solves:** Auto-measured skeleton loading states for React, Vue, Svelte and vanilla JavaScript. · `Web & Frontend`
+
+> Smart skeleton states
+
+`TypeScript` · ★ 951 · 21 forks · MIT · created 2026-10-19 · last push 2026-11-16\
+by **lochie** (Lochie Axon)
+
+### [jiuyang5354/bilibili-margin](https://github.com/jiuyang5354/bilibili-margin)
+**What it solves:** Browser extension that redesigns Bilibili's home, video and search pages. · `Web & Frontend`
+
+> 映间 MARGIN · 重新设计 B 站首页与视频播放页预览版 \(Chrome / Edge 扩展\) \| A Chrome/Edge extension that redesigns Bilibili home, video and search pages with liquid glass controls and shader backgrounds.
+
+`TypeScript` · ★ 939 · 64 forks · MIT · created 2026-10-27 · last push 2026-11-16\
+by **jiuyang5354** (JiuYang)
+
+### [surendrapandar/minilytics](https://github.com/surendrapandar/minilytics)
+**What it solves:** Self-hosted web analytics that attributes revenue to traffic sources, running on Cloudflare. · `Web & Frontend`
+
+> Opensource Revenue-first analytics for indie hackers & solo founders
+
+`TypeScript` · ★ 838 · 201 forks · MIT · created 2026-10-23 · last push 2026-11-03\
+by **surendrapandar** (Surendra Pandar)
+
+### [setube/github-chinese](https://github.com/setube/github-chinese)
+**What it solves:** Browser extension that translates the GitHub interface into Chinese and adds download and search features. · `Web & Frontend`
+
+> 把 GitHub 界面翻译成简体中文、繁体中文的浏览器扩展，支持企业版站点；附带下载加速、搜索净化、自动加载、图片预览、下载次数、新标签页打开、下载文件夹、中文自述文件、更新时间着色（Chrome、Edge、Firefox、Safari）
+
+`TypeScript` · ★ 798 · 54 forks · MIT · created 2026-10-26 · last push 2026-11-16\
+by **setube** (谦君)
+
+### [declarative-dragging/dragology](https://github.com/declarative-dragging/dragology)
+**What it solves:** Library for building model-driven, composable drag-and-drop interactions on SVG in React. · `Web & Frontend`
+
+> Declarative dragging for SVG on the web
+
+`TypeScript` · ★ 726 · 29 forks · MIT · created 2026-10-29 · last push 2026-11-06\
+by **declarative-dragging** (Declarative Dragging · org)
+
+### [kevintngo/looseleaf](https://github.com/kevintngo/looseleaf)
+**What it solves:** Hand-drawn-style React component library and shadcn registry that keeps shadcn/ui APIs. · `Web & Frontend`
+
+> shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry.
+
+`TypeScript` · ★ 700 · 40 forks · MIT · created 2026-11-01 · last push 2026-11-01\
+by **kevintngo**
+
+### [DominikScholz/open-bot-avatar](https://github.com/DominikScholz/open-bot-avatar)
+**What it solves:** JSON spec and dependency-free renderer for animated, interactive agent avatars. · `Web & Frontend`
+
+> A JSON spec and renderer for interactive agent avatars
+
+`TypeScript` · ★ 628 · 58 forks · MIT · created 2026-11-02 · last push 2026-11-10\
+by **DominikScholz** (Dominik Scholz)
+
+### [luobinger/PerkRadar](https://github.com/luobinger/PerkRadar)
+**What it solves:** Self-hosted aggregator that collects deals and freebies from public feeds into a searchable dashboard. · `Web & Frontend`
+
+> PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and personal bookmarks.
+
+`TypeScript` · ★ 516 · 108 forks · MIT · created 2026-11-08 · last push 2026-11-17\
+by **luobinger** (luobing1207)
+
+### [Jestions-dev/BlueFatFish](https://github.com/Jestions-dev/BlueFatFish)
+**What it solves:** Offline new-tab page extension with bouncing physics toys, custom wallpapers and shortcut tiles. · `Web & Frontend`
+
+> 蓝色大肥鱼的新标签页：蓝底玩具箱 \+ 自定义壁纸/标签，纯本地，断网也能用。已上架 Microsoft Edge 加载项商店。
+
+`JavaScript` · ★ 505 · 32 forks · MIT · created 2026-10-24 · last push 2026-11-03\
+by **Jestions-dev** (Jestions)
 
 ## Mobile & Desktop
 
@@ -404,6 +862,142 @@ by **Renly1994** (小唐的Token)
 `Swift` · ★ 1,134 · 113 forks · MIT · created 2026-10-28 · last push 2026-11-15\
 by **tang1693** (Yang Tang)
 
+### [BenchUp3D/benchup](https://github.com/BenchUp3D/benchup)
+**What it solves:** Browser and desktop 3D modeling app for woodworking design, as an alternative to SketchUp. · `Mobile & Desktop`
+
+> Free, open-source 3D woodworking and modeling software and SketchUp alternative. Built with Rust, WebAssembly and WebGPU. Runs in your browser or on desktop. 100% vibe-coded with great emphase on stability, rendering speed and UI/UX.
+
+`Rust` · ★ 932 · 62 forks · MIT · created 2026-10-23 · last push 2026-11-16\
+by **BenchUp3D** (BenchUp · org)
+
+### [changhaoting1998-star/manufacturing-wechat-miniapp-starter](https://github.com/changhaoting1998-star/manufacturing-wechat-miniapp-starter)
+**What it solves:** Starter WeChat Mini Program for factory staff self-service with auditable MES integration. · `Mobile & Desktop`
+
+> Privacy-first WeChat Mini Program starter for manufacturing employee self-service and auditable MES integration.
+
+`JavaScript` · ★ 897 · 62 forks · MIT · created 2026-10-27 · last push 2026-10-27\
+by **changhaoting1998-star**
+
+### [artcraft-android/procraft](https://github.com/artcraft-android/procraft)
+**What it solves:** Painting app for Android tablets and desktop with pressure brushes, layers and animation. · `Mobile & Desktop`
+
+> An open-source painting app for Android tablets, Windows and Linux: pressure-sensitive brushes, layers, adjustments, animation and 3D painting on its own Rust engine and GPU renderer.
+
+`Rust` · ★ 845 · 73 forks · Apache-2.0 · created 2026-10-23 · last push 2026-11-16\
+by **artcraft-android** (ArtCraft-android · org)
+
+### [orkunisitmak/nashi-app](https://github.com/orkunisitmak/nashi-app)
+**What it solves:** Desktop app for macOS and Windows that converts and edits files using drag gestures and a tool wheel. · `Mobile & Desktop`
+
+> Independent open-source file toolkit inspired by Tangerine, with added web downloads, QR reading and editing workflows. / Tangerine’den ilham alan, yeni özelliklerle geliştirilen bağımsız açık kaynak dosya aracı.
+
+`Swift` · ★ 809 · 215 forks · other license · created 2026-10-19 · last push 2026-11-16\
+by **orkunisitmak**
+
+### [JaceThings/DiaTweaks](https://github.com/JaceThings/DiaTweaks)
+**What it solves:** Patches the Dia browser with toggleable UI and behavior tweaks that stay applied across updates. · `Mobile & Desktop`
+
+> Unofficial tweaks for the Dia browser, kept in place across updates
+
+`Objective-C` · ★ 713 · 98 forks · no license · created 2026-10-30 · last push 2026-11-17\
+by **JaceThings** (Jace)
+
+### [lesnolie/Tigris](https://github.com/lesnolie/Tigris)
+**What it solves:** Replaces the Android TV home screen with a tvOS-style launcher, control center and screensaver. · `Mobile & Desktop`
+
+> Tigris — tvOS 27 style launcher for Android TV: Liquid Glass dock, Top Shelf, glass Control Center, photo screensaver. Agent-installable.
+
+`Kotlin` · ★ 668 · 54 forks · MIT · created 2026-10-20 · last push 2026-11-13\
+by **lesnolie** (Leslie)
+
+### [lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop)
+**What it solves:** Desktop companion character for Windows that chats, joins voice calls and supports mods. · `Mobile & Desktop`
+
+> A quiet, unofficial Capri companion for your Windows desktop.
+
+`C\#` · ★ 655 · 130 forks · other license · created 2026-10-24 · last push 2026-11-17\
+by **lachydotmcg** (lachy)
+
+### [fahadalijaved/OneOS](https://github.com/fahadalijaved/OneOS)
+**What it solves:** Runs a second Android system alongside One UI on rooted Samsung phones without flashing. · `Mobile & Desktop`
+
+> Another Android, next to One UI: switch a rooted Samsung Galaxy into another Android system and back, without flashing.
+
+`Kotlin` · ★ 650 · 76 forks · Apache-2.0 · created 2026-10-24 · last push 2026-11-16\
+by **fahadalijaved** (Fahad Ali)
+
+### [nfzerox/VirtualIntelMacOnAppleSilicon](https://github.com/nfzerox/VirtualIntelMacOnAppleSilicon)
+**What it solves:** Runs Intel macOS 10.4 to 11 on Apple silicon with graphics acceleration to use legacy apps. · `Mobile & Desktop`
+
+> Run every Intel version of macOS between Mac OS X Tiger 10.4 and macOS Big Sur 11 on Apple silicon with graphics acceleration, so you can run older 32-bit and 64-bit Intel apps like iWork ’09, iLife ’11, Aperture, Final Cut Pro 7, and Front Row, or PowerPC apps like AppleWorks. This marks an exciti…
+
+`C` · ★ 635 · 32 forks · MIT · created 2026-10-19 · last push 2026-11-15\
+by **nfzerox**
+
+### [wingedpanther/cleanmytv](https://github.com/wingedpanther/cleanmytv)
+**What it solves:** Removes bloat and ads from Android TV over Wi-Fi and installs an ad-free home screen. · `Mobile & Desktop`
+
+> Remove ads and bloat from Android TV and Google TV. Free Mac, Windows and Linux app with an ad-free launcher you can set up from your computer or the TV.
+
+`TypeScript` · ★ 628 · 49 forks · MIT · created 2026-10-20 · last push 2026-11-16\
+by **wingedpanther** (Vivek ×͜×) · 📍 Somewhere in GitHub's server
+
+### [typecraft-dev/oma-cast](https://github.com/typecraft-dev/oma-cast)
+**What it solves:** Raycast-style launcher for Omarchy Linux with ranked search, clipboard history and theme integration. · `Mobile & Desktop`
+
+> omarchy rebuild of raycast
+
+`JavaScript` · ★ 546 · 88 forks · MIT · created 2026-10-19 · last push 2026-11-15\
+by **typecraft-dev** (Typecraft Dev · org)
+
+### [Null9797/halo-tv](https://github.com/Null9797/halo-tv)
+**What it solves:** Free Android TV home screen launcher derived from Aerial, with home-screen guarding and updates. · `Mobile & Desktop`
+
+> HaloTV 3.3 — 免费 Android TV 桌面，基于 Aerial 1.99 相关改进整合优化，非上游官方发行版。独立包名与专属签名，可与 Aerial 共存。Standard / Guard / Lite，支持官网优先在线更新。
+
+`Python` · ★ 527 · 31 forks · MIT · created 2026-10-25 · last push 2026-11-16\
+by **Null9797** (Null)
+
+### [YashwanthKamireddi/Skykeep](https://github.com/YashwanthKamireddi/Skykeep)
+**What it solves:** Native iCloud Notes, Reminders, Calendar, Drive and Photos apps for Windows, Linux and Android. · `Mobile & Desktop`
+
+> iCloud, set free: Apple Notes, Reminders, Calendar, Contacts, iCloud Drive and Photos as native apps on Windows, Linux and Android. Works offline. Open source, Rust.
+
+`Rust` · ★ 512 · 30 forks · GPL-3.0 · created 2026-10-20 · last push 2026-11-17\
+by **YashwanthKamireddi** (Yashwanth Kamireddi)
+
+### [nsgo-dev/nsgo](https://github.com/nsgo-dev/nsgo)
+**What it solves:** Write cross-platform apps in Go that render with each platform's native views. · `Mobile & Desktop`
+
+> A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS and its App Clips, tvOS, watchOS, macOS, Windows, Android, Linux, the web and WeChat, QQ, Alipay and Douyin mini programs
+
+`Go` · ★ 510 · 28 forks · other license · created 2026-10-21 · last push 2026-11-17\
+by **nsgo-dev** (NSGO · org)
+
+### [swipt-automation/swipt](https://github.com/swipt-automation/swipt)
+**What it solves:** Automates iPhones and iPads via a TypeScript SDK, a CLI and an MCP-compatible API. · `Mobile & Desktop`
+
+> The universal iOS automation platform
+
+`Go` · ★ 507 · 26 forks · other license · created 2026-10-29 · last push 2026-11-14\
+by **swipt-automation** (Swipt Automation · org)
+
+### [imxieyi/Kernarium](https://github.com/imxieyi/Kernarium)
+**What it solves:** Runs a real Linux kernel natively on iOS via User-mode Linux, including Android guests. · `Mobile & Desktop`
+
+> Run real Linux kernel natively on iOS
+
+`C\+\+` · ★ 485 · 60 forks · GPL-2.0 · created 2026-11-07 · last push 2026-11-11\
+by **imxieyi** (Yi Xie)
+
+### [techgenius1/tvOS-Launcher](https://github.com/techgenius1/tvOS-Launcher)
+**What it solves:** Lightweight custom home-screen launcher for Android TV with dock, widgets and remote remapping. · `Mobile & Desktop`
+
+> A fast, lightweight tvOS 26 & macOS–inspired launcher for Android TV with a Liquid Glass dock, rotating depth scenes, universal Control Panel overlay, Recent Apps switcher, 1x/2x/3x button mapper, and one-tap local ADB setup.
+
+`Java` · ★ 484 · 55 forks · Apache-2.0 · created 2026-10-28 · last push 2026-11-16\
+by **techgenius1** (Arda Şen)
+
 ## Science & Research
 
 ### [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research)
@@ -422,6 +1016,22 @@ by **DenisSergeevitch** (Denis Shiryaev)
 `Python` · ★ 1,265 · 165 forks · other license · created 2026-10-29 · last push 2026-10-29\
 by **RikiyaT** (Rikiya Takehi)
 
+### [yzlin286-wq/Deepscient](https://github.com/yzlin286-wq/Deepscient)
+**What it solves:** Research workbench that guides scientific work through staged gates, tools and evidence chains. · `Science & Research`
+
+> 让 AI 与人类一起攻克真正的科学难题 —— 12 阶段 55 门 · 36 工具 · 98 条技能 · 证据链与可复现
+
+`JavaScript` · ★ 983 · 22 forks · MIT · created 2026-10-21 · last push 2026-10-25\
+by **yzlin286-wq**
+
+### [mit-han-lab/pear](https://github.com/mit-han-lab/pear)
+**What it solves:** Trains reasoning models with reinforcement learning in simulation so they can control real robots. · `Science & Research`
+
+> Training Reasoning Models in Simulation to Natively Use Real Robots
+
+`Python` · ★ 525 · 36 forks · Apache-2.0 · created 2026-11-13 · last push 2026-11-16\
+by **mit-han-lab** (MIT HAN Lab · org) · 📍 MIT
+
 ## Hardware & IoT
 
 ### [oosexgang/hakios-xnu-kernel](https://github.com/oosexgang/hakios-xnu-kernel)
@@ -431,6 +1041,46 @@ by **RikiyaT** (Rikiya Takehi)
 
 `C` · ★ 2,804 · 469 forks · other license · created 2026-10-22 · last push 2026-11-10\
 by **oosexgang** (org)
+
+### [schematrix/HAS_Prepper_Disk](https://github.com/schematrix/HAS_Prepper_Disk)
+**What it solves:** Turns a Raspberry Pi 5 into an offline Wi-Fi hotspot serving Wikipedia, maps and survival guides. · `Hardware & IoT`
+
+> Raspberry Pi 5 üzerinde çevrimdışı bilgi arşivi: Wikipedia, haritalar ve hayatta kalma kaynakları kendi Wi-Fi ağı üzerinden sunulur, internet gerekmez. Internet-in-a-Box tabanlıdır.Offline knowledge archive on Raspberry Pi 5: Wikipedia, maps and survival resources served over its own Wi-Fi hotspot,…
+
+`HTML` · ★ 804 · 90 forks · MIT · created 2026-10-27 · last push 2026-11-07\
+by **schematrix** (Schematrix)
+
+### [cauliflowermossgrape/idrive7-apps](https://github.com/cauliflowermossgrape/idrive7-apps)
+**What it solves:** Custom apps and an SDK for the BMW iDrive 7 head unit, with GPU rendering at 60 fps. · `Hardware & IoT`
+
+> Custom apps for the BMW iDrive 7 head unit \(shift lights, virtual dyno, brake and drag timers, G-meter, fault scanner\) plus an SDK to build and install your own.
+
+`JavaScript` · ★ 715 · 154 forks · MIT · created 2026-10-21 · last push 2026-11-16\
+by **cauliflowermossgrape**
+
+### [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice)
+**What it solves:** Connects Home Assistant Assist voice satellites to a Hermes Agent profile for spoken conversations. · `Hardware & IoT`
+
+> Talk to a Hermes Agent profile through Home Assistant Assist
+
+`Python` · ★ 714 · 43 forks · MIT · created 2026-11-05 · last push 2026-11-11\
+by **majorminorlabs** (MAJOR//minor)
+
+### [cauliflowermossgrape/idrive7-8-ssh-root](https://github.com/cauliflowermossgrape/idrive7-8-ssh-root)
+**What it solves:** Enables persistent root SSH on BMW iDrive 7/8 head units over ENET without debug DTCs. · `Hardware & IoT`
+
+> Enable root SSH on BMW MGU head units \(iDrive 7 / ID8 BDC3 / ID8 BCP\) over ENET - flash the debug image, enroll, persistent SSH with no B7F8E5 DTC, and a unique per-car key.
+
+`Python` · ★ 547 · 103 forks · Unlicense · created 2026-10-22 · last push 2026-11-13\
+by **cauliflowermossgrape**
+
+### [lasharor/cleanyourtv-WebOS](https://github.com/lasharor/cleanyourtv-WebOS)
+**What it solves:** Replaces the home screen on rooted LG webOS TVs and optionally removes LG ads and telemetry. · `Hardware & IoT`
+
+> A clean home screen for rooted LG webOS TVs, with an optional debloat of LG's ads and telemetry.
+
+`JavaScript` · ★ 532 · 76 forks · other license · created 2026-10-21 · last push 2026-11-16\
+by **lasharor**
 
 ## Finance & Crypto
 
@@ -529,3 +1179,215 @@ by **WoYun520**
 
 `Python` · ★ 1,121 · 246 forks · other license · created 2026-10-26 · last push 2026-11-13\
 by **konlu**
+
+### [Pilipala9919/MarcoMovie](https://github.com/Pilipala9919/MarcoMovie)
+**What it solves:** Cross-platform media player for TV, mobile and desktop that plays user-supplied sources. · `Games & Media`
+
+> 由 Pilipala 开发的 Android 电视播放器。仅提供工具，不含影视资源；内容和配置由用户自行合法获取。
+
+`Java` · ★ 951 · 86 forks · GPL-3.0 · created 2026-10-26 · last push 2026-11-16\
+by **Pilipala9919** (Pilipala)
+
+### [sassiestrhihno/boxshelf-beta](https://github.com/sassiestrhihno/boxshelf-beta)
+**What it solves:** TV-style 3D box-art launcher for emulators, Steam games and media apps. · `Games & Media`
+
+> Boxshelf public beta for Windows, Android \(AYN Thor\) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.
+
+★ 948 · 26 forks · no license · created 2026-11-05 · last push 2026-11-14\
+by **sassiestrhihno** (Rhihno)
+
+### [kuraeow/ultratears](https://github.com/kuraeow/ultratears)
+**What it solves:** Builds a native PC and Steam Deck port of a Switch game from the user's own game dump. · `Games & Media`
+
+> Unofficial native PC and Steam Deck port of Tears of the Kingdom 1.4.3 using static recompilation. Builds locally from the player's own extracted game dump; no game files included.
+
+`C` · ★ 931 · 51 forks · GPL-3.0 · created 2026-10-25 · last push 2026-11-16\
+by **kuraeow**
+
+### [ramenvr/autopilot](https://github.com/ramenvr/autopilot)
+**What it solves:** Automated playtesting agent that learns and plays games in Unreal, Unity, Godot and Roblox. · `Games & Media`
+
+> Play any game
+
+`Python` · ★ 870 · 76 forks · Apache-2.0 · created 2026-10-30 · last push 2026-11-16\
+by **ramenvr** (Ramen · org)
+
+### [Dittobyte/Recompia](https://github.com/Dittobyte/Recompia)
+**What it solves:** Static recompilation of a Switch 2 game to run natively on PC, with multiplayer; no game files included. · `Games & Media`
+
+> Pokémon Pokopia \(Switch 2\) recompiled to run natively on Windows, Linux, and MacOS. Multiplayer included, all events, modding, feature enhancements and more\! Join the discord community as well - https://discord.recompia.com
+
+`C\+\+` · ★ 852 · 45 forks · GPL-3.0 · created 2026-11-02 · last push 2026-11-17\
+by **Dittobyte** (org)
+
+### [Ryder191/haloflux](https://github.com/Ryder191/haloflux)
+**What it solves:** Beat-driven sci-fi Canvas animation usable as a live desktop wallpaper. · `Games & Media`
+
+> Beat-driven sci-fi light-ring visualization. Pure Canvas, single HTML, zero dependencies. Noncommercial use only. RYDER CODE / Ms MAIKEBAIs CAT ｜ 节拍驱动的科幻光环数据可视化，纯原生 Canvas 单文件 HTML、零依赖，支持 Wallpaper Engine 动态壁纸。仅限非商业使用，严禁商用。
+
+`HTML` · ★ 793 · 66 forks · other license · created 2026-10-21 · last push 2026-11-09\
+by **Ryder191** (Eveninadream)
+
+### [islandmed/SculptForge](https://github.com/islandmed/SculptForge)
+**What it solves:** Cross-platform 3D sculpting app with remeshing, painting, LODs and export pipelines for game engines. · `Games & Media`
+
+> Free, open-source 3D sculpting for Linux, macOS and Windows: dense meshes, remeshing, painting, built-in AI \(image/text to 3D\), Send to Unreal, game-ready LODs, Gaussian splats and OpenUSD.
+
+`C\+\+` · ★ 720 · 90 forks · GPL-3.0 · created 2026-10-21 · last push 2026-11-17\
+by **islandmed**
+
+### [gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp)
+**What it solves:** Native PC port of a PS2 game made by statically recompiling the executable; you supply the disc. · `Games & Media`
+
+> A native Windows and Linux port of Grand Theft Auto: Vice City Stories \(PS2, USA, SLUS-21590\), made by recompiling the game's PS2 executable into C\+\+
+
+`C\+\+` · ★ 688 · 38 forks · GPL-3.0 · created 2026-10-30 · last push 2026-11-14\
+by **gothamor**
+
+### [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut)
+**What it solves:** Self-hosted tool that clips long videos and live streams into captioned vertical shorts using AI. · `Games & Media`
+
+> AI clipping for long videos and live streams. Self-hosted, bring your own AI key.
+
+`Python` · ★ 683 · 233 forks · MIT · created 2026-11-14 · last push 2026-11-15\
+by **haziqahmedqasmi** (Haziq Qasmi)
+
+### [Humpalumps/Ultra-Water](https://github.com/Humpalumps/Ultra-Water)
+**What it solves:** Real-time FFT ocean renderer for three.js with foam, caustics, underwater views and buoyancy. · `Games & Media`
+
+> Real-time FFT ocean renderer for three.js \(WebGL2\): shore breakers, foam, caustics, underwater rendering and buoyancy at 170–300 fps
+
+`JavaScript` · ★ 675 · 100 forks · MIT · created 2026-10-28 · last push 2026-11-02\
+by **Humpalumps** (Ian)
+
+### [misshexa66/OunceCake](https://github.com/misshexa66/OunceCake)
+**What it solves:** Dumps unencrypted romFS and exeFS data from Switch 2 games you own over FTP. · `Games & Media`
+
+> Tool to dump unencrypted romFS and exeFS for Switch 2 games
+
+`JavaScript` · ★ 671 · 77 forks · GPL-2.0 · created 2026-10-25 · last push 2026-11-08\
+by **misshexa66** (Hexa) · 📍 Development Hell
+
+### [Moh4696/cinematic-skill](https://github.com/Moh4696/cinematic-skill)
+**What it solves:** Agent skill that turns a request into a narrated film rendered entirely from code. · `Games & Media`
+
+> Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.
+
+`Python` · ★ 656 · 98 forks · MIT · created 2026-11-09 · last push 2026-11-09\
+by **Moh4696** (m0h)
+
+### [vibe-motion/sound](https://github.com/vibe-motion/sound)
+**What it solves:** Agent skill and script to search, filter and download Freesound sound effects for videos. · `Games & Media`
+
+> Studio-grade sound effects for agents: search Pixabay, Freesound, Mixkit and Kenney, ranked by human feedback
+
+`Python` · ★ 637 · 57 forks · no license · created 2026-10-28 · last push 2026-10-29\
+by **vibe-motion** (Vibe Motion · org)
+
+### [morerokk/MHGURecomp](https://github.com/morerokk/MHGURecomp)
+**What it solves:** Native PC and Android port of a Switch game via static recompilation; you supply your own game files. · `Games & Media`
+
+> A native PC port of Monster Hunter Generations Ultimate. Requires the game's files to play or build.
+
+`C` · ★ 635 · 59 forks · MIT · created 2026-10-22 · last push 2026-11-16\
+by **morerokk** (Rokk)
+
+### [lovisdotio/video-to-game](https://github.com/lovisdotio/video-to-game)
+**What it solves:** Agent skill that turns a generated gameplay video into a playable Three.js browser game. · `Games & Media`
+
+`HTML` · ★ 626 · 83 forks · MIT · created 2026-10-29 · last push 2026-10-29\
+by **lovisdotio**
+
+### [actionow-ai/vvv](https://github.com/actionow-ai/vvv)
+**What it solves:** Reusable, editable wedding video templates and an agent skill that render videos from photos and music. · `Games & Media`
+
+> 一次构建视频模板，多次复用：给 Claude Code、Codex 等 25\+ 个 Agent 的开源可编辑婚礼视频模板与 Agent Skill。Build a video template once, reuse it across coding agents.
+
+`Python` · ★ 559 · 160 forks · MIT · created 2026-10-22 · last push 2026-10-30\
+by **actionow-ai** (actionow.ai)
+
+### [mileson/chaojifeng-video-design](https://github.com/mileson/chaojifeng-video-design)
+**What it solves:** Agent skill for planning, storyboarding, producing and checking videos, with 59 style packs. · `Games & Media`
+
+> 超级峰的视频设计方法论｜面向 AI Agent 的视频主线、分镜、声画节奏、制作与交付验收 Skill
+
+`HTML` · ★ 547 · 68 forks · MIT · created 2026-10-20 · last push 2026-11-06\
+by **mileson** (Mileson)
+
+### [Lanqiao-Luca/ai-video-marker](https://github.com/Lanqiao-Luca/ai-video-marker)
+**What it solves:** AI video workflow with runnable Python tools that render pixel-art animations and check the output. · `Games & Media`
+
+> 🎬 AI 视频制作与 AIGC 创作工作流（AI Video Creation Workflow）｜用 AI 制作视频、像素动画与漫画短片｜分镜、素材、配乐、模板与可运行 Python 示例｜Blender 分层动画与剪映制作方法
+
+`Python` · ★ 542 · 13 forks · MIT · created 2026-10-25 · last push 2026-11-16\
+by **Lanqiao-Luca** (程序员澜桥-Luca)
+
+### [mrdoob/slop-newyork](https://github.com/mrdoob/slop-newyork)
+**What it solves:** Browser simulation of Manhattan built from open data that you can explore on foot or by car, bike or helicopter. · `Games & Media`
+
+`JavaScript` · ★ 526 · 175 forks · MIT · created 2026-10-20 · last push 2026-11-12\
+by **mrdoob**
+
+### [amirmushichge/pixel-plays](https://github.com/amirmushichge/pixel-plays)
+**What it solves:** Small browser games drawn as isometric pixel scenes by a dependency-free software rasteriser. · `Games & Media`
+
+> Small browser games as isometric pixel dioramas. No build step, no dependencies.
+
+`HTML` · ★ 523 · 51 forks · MIT · created 2026-10-31 · last push 2026-10-31\
+by **amirmushichge** (amirmushich)
+
+### [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph)
+**What it solves:** Renders videos from TypeScript or HTML code using a Rust GPU compositor, with no browser needed. · `Games & Media`
+
+> A blazingly fast programmatic video engine, made for agents.
+
+`TypeScript` · ★ 522 · 40 forks · Apache-2.0 · created 2026-10-23 · last push 2026-11-16\
+by **0xS4N4TG** (sanat) · 📍 root
+
+### [momusdigital/fnv_decomp](https://github.com/momusdigital/fnv_decomp)
+**What it solves:** Byte-matching C\+\+ decompilation of the PC game for modding and preservation research. · `Games & Media`
+
+`C\+\+` · ★ 498 · 97 forks · other license · created 2026-10-31 · last push 2026-11-07\
+by **momusdigital**
+
+### [CUDADA-jpg/her-words](https://github.com/CUDADA-jpg/her-words)
+**What it solves:** Browser narrative game about asking good questions in a breakup conversation. · `Games & Media`
+
+> 一个关于好好提问的游戏
+
+`JavaScript` · ★ 488 · 6 forks · no license · created 2026-10-28 · last push 2026-10-29\
+by **CUDADA-jpg**
+
+### [Moessif/code-video-showcase](https://github.com/Moessif/code-video-showcase)
+**What it solves:** Agent skill that renders beat-synced showcase videos from code, synthesized audio and FFmpeg. · `Games & Media`
+
+> A pure-code beat-synced showcase-video Agent Skill: HTML/Canvas/SVG/Three.js frame-by-frame \+ Python numpy/scipy score \+ FFmpeg. No generative models.
+
+`JavaScript` · ★ 487 · 41 forks · MIT · created 2026-10-24 · last push 2026-10-28\
+by **Moessif**
+
+### [Shagg88/COGBox](https://github.com/Shagg88/COGBox)
+**What it solves:** Static recompilation of Xbox 360 games into native PC builds that run from user-owned copies. · `Games & Media`
+
+> This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series. All 4 games have been personally recompiled for use with a fully native renderer by me.
+
+`C\+\+` · ★ 481 · 16 forks · MIT · created 2026-10-27 · last push 2026-11-17\
+by **Shagg88** (Shagg)
+
+### [xiaoerofficial021-collab/FlowHMR-Windows](https://github.com/xiaoerofficial021-collab/FlowHMR-Windows)
+**What it solves:** Windows desktop app that captures 3D human motion from ordinary video and exports it to FBX, VMD, VRMA and other formats. · `Games & Media`
+
+> FlowHMR for Windows: video-based motion capture, 3D preview, and motion export.
+
+`Python` · ★ 476 · 53 forks · Apache-2.0 · created 2026-11-09 · last push 2026-11-16\
+by **xiaoerofficial021-collab** (Xiaoer)
+
+## Other
+
+### [timhengc/mai-shen-zai-ci](https://github.com/timhengc/mai-shen-zai-ci)
+**What it solves:** Generates a fun annual report, identity card and avatar from a user's McDonald's China orders. · `Other`
+
+> 麦门封神榜｜你在麦门算老几？领取你的麦门专属身份
+
+`Python` · ★ 478 · 49 forks · no license · created 2026-10-19 · last push 2026-10-19\
+by **timhengc**

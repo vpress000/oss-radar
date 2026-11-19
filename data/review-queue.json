@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18",
-  "waiting": 721,
+  "updated": "2026-11-19",
+  "waiting": 477,
   "next": [
     {
       "repo": "s1dashu/quiet-md",
@@ -128,81 +128,6 @@
       "why": "new"
     },
     {
-      "repo": "farhatullah0006-art/rx-11-audio-editor-config",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "muddinenilakshmilalithaksh-create/sp-flash-tool",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "RafliAbdulHaliim/sylenth-1-enhancement-suite",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "Forgavin/ultra-iso-desktop-setup",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "arthurrossetocampos1-crypto/uttorent-desktop",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "parthkshirsagar2456-blip/voicemod-desktop-edition",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "pravinpote1985/serato-dj-pro-2026",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "FarhanNaem/startall-back",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "braazo/systemcare-pro",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "thiagoaureliomartins-programador/chief-architect-premier",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "Paulinho182/hitfilm-desktop-installer",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "mirkobrombin/raven",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "Th0rgal/satmux",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "rerun-build/rerun",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
       "repo": "Sakshimodi14/fonepaw-unlocker-setup",
       "section": "location-unknown",
       "why": "new"
@@ -233,22 +158,97 @@
       "why": "new"
     },
     {
-      "repo": "vnaurudo/php-storm-desktop-setup",
+      "repo": "1337isnot1337/DOPPLERGEIST",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "Vibha-Ramprakash/claude-video-effects",
+      "repo": "wanghao-SunSky/cs329z-chinese",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "Minglink/dsh-jailbreak-workflow",
+      "repo": "thebcd69/bcd-games",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "assetnote/php2shell-scanner",
+      "repo": "5hyuns/maya-workflow-kit-for-blender",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "smarkyie/NSP-Box",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "ngocanhnckh/renderlint",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "prototux/AARE",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "BLEZZ0102/Deskland",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "riyadhHDA/wichforks",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "inclusionAI/Ming-3.0-tts",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "CityPulso/PulsoIcon-Package",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "stubbi/asm",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "Tencent-Hunyuan/Hy-Nomas",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "makepad/relax",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "liuhaisi2026212-maker/taishang-laojun",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "VivaLaVent/ps5-bazzite-deck",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "sloemo01/diorama",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "MarkBlah/smsofdeath",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "ZSeven-W/dsh-game-studio",
       "section": "location-unknown",
       "why": "new"
     }
