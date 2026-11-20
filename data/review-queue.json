@@ -1,162 +1,7 @@
 {
-  "updated": "2026-11-19",
-  "waiting": 477,
+  "updated": "2026-11-20",
+  "waiting": 198,
   "next": [
-    {
-      "repo": "s1dashu/quiet-md",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "ZiChuanLan/agent-purge",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "daveebbelaar/bama",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "jacke-pp/open-yoki",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "yjid/kensaku",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "BookracyFOS/bookracy",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "Arjun-Ingole/hop",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "NiazMorshed2007/reanimate",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "shirai91/nx2android",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "anonnerdfrenzy/survival-llm",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "HybridRobotics/supermimic",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "HRuiCcc/RuiC-PoseAtlas",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "chadyi/StudyOnTV",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "AhmadHassan-BTed/RainGen-RainGenerator",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "toyxyz/toyxyz_RGBMocap",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "9bie/php2shell-bypass-aslr-exp",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "livliv-dev/player",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "JosssphZhou/poki",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "neuregex/freefield",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "openai/php2shell-checker",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "woniuniuniu/dsh-media-desk",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "Seagey/couch-tv",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "cutetailbud/ff-ruyijs",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "egoist/mygo-music",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "sqlpxc/airhand",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "Sakshimodi14/fonepaw-unlocker-setup",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "mxhm11cr/LinuxRunner",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "kolbicz/WQFiles",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "Marker284/yandex-station-extended",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "KillaBoi/StealMyBitcoin-PoC",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "andrew-babo/muse4ai",
-      "section": "location-unknown",
-      "why": "new"
-    },
     {
       "repo": "1337isnot1337/DOPPLERGEIST",
       "section": "location-unknown",
@@ -249,6 +94,161 @@
     },
     {
       "repo": "ZSeven-W/dsh-game-studio",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "mille-okws/pestinha",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "ava25-thompson/fishstrap-roblox-fps-booster-desktop",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "yucezerey/turkish-anti-ai-skill",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "oceanpacificpeace/lichii-shader-sync",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "drost-ai/tinker-ai-skill",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "phantomsociallook/auslogics",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "zklmiao/prompt-vault",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "yooma1/qufz",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "liu7866/couple-home",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "ttom795/Skyrim_Android",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "NyxFoundation/nyxis",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "ngxson/esp32-usb-to-airprint",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "ywEdAi/teachable-figures",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "arnold117/iOS-NOIR",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "nishant-Tiwari24/cracked",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "hugues31/duckpad",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "ubc-vision/solv3r",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "nobcdz/CarUp",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "Pluviobyte/claude-ban-clean",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "Forward-Future/scarlet",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "hhtower/price-comparison",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "EgorBo/BlazingFastDotnet",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "mornyeapp/Mornye-Desktop",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Luo-Yihang/Mundo",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "dlt2000/xc-soundfont-synth",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "KenKaiii/Roamies",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "helloianneo/ian-xhs-carousel",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Motphys/Uni-SuperMimic",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "rtora/munorai",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Xc1Ym/LumaNX",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "jacke-pp/ai-wallet-binance",
       "section": "location-unknown",
       "why": "new"
     }
