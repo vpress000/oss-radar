@@ -1,102 +1,7 @@
 {
-  "updated": "2026-11-20",
-  "waiting": 198,
+  "updated": "2026-11-21",
+  "waiting": 31,
   "next": [
-    {
-      "repo": "1337isnot1337/DOPPLERGEIST",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "wanghao-SunSky/cs329z-chinese",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "thebcd69/bcd-games",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "5hyuns/maya-workflow-kit-for-blender",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "smarkyie/NSP-Box",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "ngocanhnckh/renderlint",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "prototux/AARE",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "BLEZZ0102/Deskland",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "riyadhHDA/wichforks",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "inclusionAI/Ming-3.0-tts",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "CityPulso/PulsoIcon-Package",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "stubbi/asm",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "Tencent-Hunyuan/Hy-Nomas",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "makepad/relax",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "liuhaisi2026212-maker/taishang-laojun",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "VivaLaVent/ps5-bazzite-deck",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "sloemo01/diorama",
-      "section": "location-unknown",
-      "why": "new"
-    },
-    {
-      "repo": "MarkBlah/smsofdeath",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "ZSeven-W/dsh-game-studio",
-      "section": "location-unknown",
-      "why": "new"
-    },
     {
       "repo": "mille-okws/pestinha",
       "section": "location-unknown",
@@ -128,127 +33,127 @@
       "why": "new"
     },
     {
-      "repo": "zklmiao/prompt-vault",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "yooma1/qufz",
+      "repo": "KiritoXDone/c001apk",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "liu7866/couple-home",
+      "repo": "wy51ai/easycolab",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "ttom795/Skyrim_Android",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "NyxFoundation/nyxis",
+      "repo": "SAINTTaiYi/SpektraLab-Android",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "ngxson/esp32-usb-to-airprint",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "ywEdAi/teachable-figures",
+      "repo": "ItzMeShadow999/BadgeMaxxer",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "arnold117/iOS-NOIR",
+      "repo": "Minglink/dsh-workflows",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "nishant-Tiwari24/cracked",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "hugues31/duckpad",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "ubc-vision/solv3r",
+      "repo": "bvvst/intern",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "nobcdz/CarUp",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "Pluviobyte/claude-ban-clean",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "Forward-Future/scarlet",
+      "repo": "o-Sakurajimamai-o/cet-practice",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "hhtower/price-comparison",
+      "repo": "anomalyco/textjs",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "EgorBo/BlazingFastDotnet",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "mornyeapp/Mornye-Desktop",
+      "repo": "AldenHe/huayoupu-ledger",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "Luo-Yihang/Mundo",
+      "repo": "dqhieu/Silica",
       "section": "outside-us",
       "why": "new"
     },
     {
-      "repo": "dlt2000/xc-soundfont-synth",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "KenKaiii/Roamies",
-      "section": "outside-us",
-      "why": "new"
-    },
-    {
-      "repo": "helloianneo/ian-xhs-carousel",
+      "repo": "Gosu-x/multimodal-threat-dataset",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "Motphys/Uni-SuperMimic",
+      "repo": "evilevil/dsh-purge-021rc2",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "rtora/munorai",
+      "repo": "YOLOW92/pagesift",
       "section": "location-unknown",
       "why": "new"
     },
     {
-      "repo": "Xc1Ym/LumaNX",
+      "repo": "JFC-Group/Housekeeping-PoC",
       "section": "outside-us",
       "why": "new"
     },
     {
-      "repo": "jacke-pp/ai-wallet-binance",
+      "repo": "swipt-automation/official-swiplets",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "YTruman/better-skill",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "beiwocaishijia/gezhi-sheets",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Koustubh12345/YTXTube",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "ChazY11/medradar",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "jwang771/3d-world-simulator",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "PlanetCraneInterface/autodesk-revit",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "TencentARC/Looking-Ahead",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "InariNGT-Ofiicial/dsh-bili-humanism",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "YusufOzmen01/openhouse",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "gamboozino/ng2recomp",
       "section": "location-unknown",
       "why": "new"
     }

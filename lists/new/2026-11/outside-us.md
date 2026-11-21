@@ -2,9 +2,9 @@
 
 [← Back to the README](../../../README.md) · Sections: [SF Bay Area](sf-bay-area.md) · [Rest of US](rest-of-us.md) · **Outside US** · [Location unknown](location-unknown.md)
 
-123 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-20.
+163 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-21.
 
-**Categories:** [AI & ML](#ai--ml) (30) · [Developer Tools](#developer-tools) (19) · [Infrastructure & DevOps](#infrastructure--devops) (9) · [Data & Databases](#data--databases) (1) · [Security](#security) (8) · [Web & Frontend](#web--frontend) (7) · [Mobile & Desktop](#mobile--desktop) (16) · [Science & Research](#science--research) (3) · [Hardware & IoT](#hardware--iot) (11) · [Finance & Crypto](#finance--crypto) (1) · [Games & Media](#games--media) (17) · [Other](#other) (1)
+**Categories:** [AI & ML](#ai--ml) (38) · [Developer Tools](#developer-tools) (26) · [Infrastructure & DevOps](#infrastructure--devops) (11) · [Data & Databases](#data--databases) (3) · [Security](#security) (8) · [Web & Frontend](#web--frontend) (9) · [Mobile & Desktop](#mobile--desktop) (24) · [Science & Research](#science--research) (5) · [Hardware & IoT](#hardware--iot) (14) · [Finance & Crypto](#finance--crypto) (3) · [Games & Media](#games--media) (21) · [Other](#other) (1)
 
 ## AI & ML
 
@@ -244,6 +244,70 @@ by **SheepSeb** (Sebastian-Ion Nae) · 📍 Bucharest
 `TypeScript` · ★ 332 · 31 forks · MIT · created 2026-10-28 · last push 2026-11-16\
 by **muaaz9329** (Muaaz) · 📍 Copenhagen
 
+### [KenKaiii/Roamies](https://github.com/KenKaiii/Roamies)
+**What it solves:** Desktop AI companion that takes voice or text, tracks your commitments and sends reminders. · `AI & ML`
+
+> Desktop creatures with an AI sidekick that lives on your screen. Talk to it, it remembers what you said you'd do, reminds you and points at things. Your choice of AI. Mac and Windows.
+
+`JavaScript` · ★ 312 · 87 forks · AGPL-3.0 · created 2026-10-28 · last push 2026-11-17\
+by **KenKaiii** (Ken Kai) · 📍 Australia
+
+### [ArcheOne-AI/RoboScript](https://github.com/ArcheOne-AI/RoboScript)
+**What it solves:** Agent framework that learns robot manipulation tasks from one demonstration without training. · `AI & ML`
+
+> World In-Context Learning for Agentic Robot Manipulation
+
+`Python` · ★ 297 · 34 forks · Apache-2.0 · created 2026-11-05 · last push 2026-11-10\
+by **ArcheOne-AI** (ArcheOne AI · org) · 📍 China
+
+### [gokayfem/image-to-sculpt](https://github.com/gokayfem/image-to-sculpt)
+**What it solves:** Turns a single image into a 3D sculpt checked against that image, with a Blender replay. · `AI & ML`
+
+> Turn one image of anything into a 3D sculpt measured against that image: registered views, map-fitting passes, Blender replay and timelapse. A skill for coding agents.
+
+`Python` · ★ 295 · 22 forks · MIT · created 2026-11-08 · last push 2026-11-08\
+by **gokayfem** (Gökay Aydoğan) · 📍 Turkey
+
+### [MCG-NJU/AutoTavern](https://github.com/MCG-NJU/AutoTavern)
+**What it solves:** Provides a Hearthstone Battlegrounds simulator with RL interface and a 960-task decision benchmark. · `AI & ML`
+
+> TavernGym and TavernBench: a faithful, full-content Hearthstone Battlegrounds simulator with an RL interface, and a 960-task decision benchmark. Code and data for "Build, Don't Play".
+
+`Rust` · ★ 289 · 64 forks · MIT · created 2026-10-24 · last push 2026-11-04\
+by **MCG-NJU** (Multimedia Computing Group, Nanjing University · org) · 📍 Nanjing
+
+### [CXP-2024/gpt-anime-denoise](https://github.com/CXP-2024/gpt-anime-denoise)
+**What it solves:** Removes fish-scale and fragmented-shading artifacts from GPT-generated anime images without redrawing them. · `AI & ML`
+
+> 去除 GPT 生图在二次元 / 番剧图里的风味噪点（包括但不限于鱼鳞状纹理、碎片化细节、碎片化阴影），不重画画面 · Removes the GPT-flavoured noise \(fish-scale texture, fragmented detail and shading\) from anime images
+
+`HTML` · ★ 263 · 14 forks · other license · created 2026-11-05 · last push 2026-11-15\
+by **CXP-2024** (Sandrone) · 📍 Beijing
+
+### [nicobailon/skill-diet](https://github.com/nicobailon/skill-diet)
+**What it solves:** Trims bloated agent skill files and checks them against the tools they describe, with tested before/after evals. · `AI & ML`
+
+> An agent skill that keeps other skills lean and correct: a checklist for every edit, and a tested diet for bloated ones.
+
+`JavaScript` · ★ 259 · 10 forks · MIT · created 2026-10-24 · last push 2026-11-06\
+by **nicobailon** (Nico Bailon) · 📍 Vancouver, BC
+
+### [R238Company/meu-emprego-novo](https://github.com/R238Company/meu-emprego-novo)
+**What it solves:** AI agents that tailor resumes to job postings from a user's own career profile, outputting LaTeX/PDF. · `AI & ML`
+
+> Equipe de agentes de IA \(CrewAI \+ AWS Bedrock/Claude\) que lê a descrição de uma vaga e a base profissional da pessoa e gera currículos personalizados em PDF/LaTeX, em PT ou EN, sem inventar informações e preservando toda a trajetória de carreira.
+
+`Python` · ★ 258 · 62 forks · MIT · created 2026-10-31 · last push 2026-11-03\
+by **R238Company** (R238 · org) · 📍 Brazil
+
+### [lemonadesaltbagel/airlock](https://github.com/lemonadesaltbagel/airlock)
+**What it solves:** Lets a local coding agent consult cloud models without leaking source code, names, or secrets. · `AI & ML`
+
+> A privacy-first local coding agent that consults frontier AI models without exposing your source code.
+
+`TypeScript` · ★ 256 · 49 forks · Apache-2.0 · created 2026-10-24 · last push 2026-10-28\
+by **lemonadesaltbagel** (Austin Huang) · 📍 Sydney, Australia
+
 ## Developer Tools
 
 ### [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything)
@@ -396,6 +460,62 @@ by **earendil-works** (Earendil Works · org) · 📍 Austria
 `Rust` · ★ 331 · 64 forks · no license · created 2026-10-23 · last push 2026-11-04\
 by **lemonadesaltbagel** (Austin Huang) · 📍 Sydney, Australia
 
+### [zklmiao/prompt-vault](https://github.com/zklmiao/prompt-vault)
+**What it solves:** Local-first Windows desktop app for collecting, searching, filling in and copying reusable AI prompts. · `Developer Tools`
+
+> 本地优先的 Prompt 收藏桌面工具 · Tauri 2 \+ React 19 \+ TypeScript · Local-first prompt vault for Windows
+
+`TypeScript` · ★ 323 · 9 forks · MIT · created 2026-10-28 · last push 2026-11-15\
+by **zklmiao** · 📍 China
+
+### [AIDotNet/TKCode.Arc](https://github.com/AIDotNet/TKCode.Arc)
+**What it solves:** Arc-style UI component library for Avalonia .NET desktop apps. · `Developer Tools`
+
+> Arc-style \(uiarc.dev\) component library for Avalonia, built on AtomUI
+
+`C\#` · ★ 296 · 52 forks · MIT · created 2026-10-20 · last push 2026-11-17\
+by **AIDotNet** (org) · 📍 China
+
+### [khanh020905/my-office](https://github.com/khanh020905/my-office)
+**What it solves:** Visualizes Claude Code sessions as characters in a 3D office with machine monitoring. · `Developer Tools`
+
+> Văn phòng 3D cho các phiên Claude Code · A 3D office for your Claude Code sessions
+
+`JavaScript` · ★ 285 · 130 forks · MIT · created 2026-10-28 · last push 2026-11-14\
+by **khanh020905** (Lê Nguyên Quốc Khánh) · 📍 Viet Nam
+
+### [egoist/asuka](https://github.com/egoist/asuka)
+**What it solves:** UI language and toolchain that renders native widgets on desktop, mobile and web from one codebase. · `Developer Tools`
+
+> \(experimental\) Write an app once in Go, it renders native UI widgets on macOS, Windows, Linux, iOS, Android and the Web
+
+`Go` · ★ 272 · 13 forks · MIT · created 2026-10-29 · last push 2026-11-16\
+by **egoist** (EGOIST) · 📍 China
+
+### [Konata9/inkstone](https://github.com/Konata9/inkstone)
+**What it solves:** Editor and terminal color themes built from traditional Chinese colors, generated for many apps. · `Developer Tools`
+
+> Theme from Chinese traditional color for IDE, Terminal, Agent, etc
+
+`TypeScript` · ★ 271 · 16 forks · MIT · created 2026-10-21 · last push 2026-11-16\
+by **Konata9** · 📍 Shanghai, China
+
+### [egoist/godraw](https://github.com/egoist/godraw)
+**What it solves:** Native Go whiteboard that reads and writes tldraw .tldr files with full editing tools. · `Developer Tools`
+
+> infinite canvas in mygo
+
+`Go` · ★ 256 · 16 forks · no license · created 2026-11-02 · last push 2026-11-02\
+by **egoist** (EGOIST) · 📍 China
+
+### [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check)
+**What it solves:** Design rules and zero-dependency checker that finds and fixes AI-built UI issues. · `Developer Tools`
+
+> Design rules and a zero-dependency checker for interfaces built with AI coding agents, on the web and in SwiftUI and Jetpack Compose apps. English and Turkish.
+
+`HTML` · ★ 251 · 12 forks · MIT · created 2026-10-28 · last push 2026-11-08\
+by **enmerasoftware** (Enmera Software · org) · 📍 Türkiye
+
 ## Infrastructure & DevOps
 
 ### [libracoder/kiri](https://github.com/libracoder/kiri)
@@ -470,6 +590,22 @@ by **sums001** (\!\(Not Sumit\)) · 📍 India
 `Dockerfile` · ★ 384 · 18 forks · no license · created 2026-11-04 · last push 2026-11-04\
 by **tobi** (Tobias Lütke) · 📍 Ottawa, Canada
 
+### [eooce/Cloudflare-Tunnel-Panel](https://github.com/eooce/Cloudflare-Tunnel-Panel)
+**What it solves:** Manages Cloudflare Tunnels across multiple accounts from a Worker-hosted panel. · `Infrastructure & DevOps`
+
+> 一个用cloudflare workers部署的多账号隧道管理面板
+
+`JavaScript` · ★ 286 · 134 forks · GPL-3.0 · created 2026-10-20 · last push 2026-11-08\
+by **eooce** (老王) · 📍 Singapore
+
+### [0xRadikal/Free-Telegram-Proxy](https://github.com/0xRadikal/Free-Telegram-Proxy)
+**What it solves:** Auto-updated, verified free Telegram MTProto proxy lists for censored networks. · `Infrastructure & DevOps`
+
+> Free Telegram Proxy List — MTProto / MTProxy proxies, verified & auto-updated every 15 min. Each one relayed a real request to a Telegram datacenter 3× before publishing. Tap to connect: top100, FakeTLS, by country, JSON. For Iran, Russia & blocked networks. پروکسی تلگرام رایگان · прокси для телегр…
+
+`Python` · ★ 250 · 12 forks · MIT · created 2026-10-26 · last push 2026-11-17\
+by **0xRadikal** · 📍 Tehran
+
 ## Data & Databases
 
 ### [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp)
@@ -479,6 +615,22 @@ by **tobi** (Tobias Lütke) · 📍 Ottawa, Canada
 
 `Python` · ★ 479 · 60 forks · Apache-2.0 · created 2026-11-06 · last push 2026-11-14\
 by **gogoymh** (Minhyeong Yu) · 📍 Seoul, Korea
+
+### [hugues31/duckpad](https://github.com/hugues31/duckpad)
+**What it solves:** Visual DuckDB-powered tool for building, testing and versioning data transformation pipelines. · `Data & Databases`
+
+> The data transformation tool the open-source community deserves.
+
+`Python` · ★ 319 · 10 forks · MIT · created 2026-10-25 · last push 2026-11-16\
+by **hugues31** (Hugues) · 📍 Paris, France
+
+### [theadiram/Hisaab](https://github.com/theadiram/Hisaab)
+**What it solves:** Maps public development and funding records in India to places and projects, citing sources and showing data gaps. · `Data & Databases`
+
+> Hisaab — source-backed public development evidence atlas
+
+`TypeScript` · ★ 264 · 74 forks · MIT · created 2026-10-25 · last push 2026-10-31\
+by **theadiram** (adiram) · 📍 Delhi
 
 ## Security
 
@@ -599,6 +751,22 @@ by **yetone** · 📍 China
 
 `JavaScript` · ★ 353 · 69 forks · MIT · created 2026-10-29 · last push 2026-11-16\
 by **rubenhassid1** (ruben hassid) · 📍 tel aviv, israel
+
+### [muran169633/contextflow-translate](https://github.com/muran169633/contextflow-translate)
+**What it solves:** Browser extension that translates webpages bilingually using a choice of translation or AI providers. · `Web & Frontend`
+
+> Context-aware bilingual webpage translation extension with your own AI provider
+
+`JavaScript` · ★ 300 · 4 forks · MIT · created 2026-10-29 · last push 2026-11-05\
+by **muran169633** (Xiaochuan Xie) · 📍 Chongqing
+
+### [terryHu7/homecraft](https://github.com/terryHu7/homecraft)
+**What it solves:** Template for building a voxel-style 3D personal website in Three.js with movement, weather and embedded pages. · `Web & Frontend`
+
+> Build your own Minecraft-inspired 3D personal website. 打造“我的世界”风格3D个人网站
+
+`JavaScript` · ★ 256 · 82 forks · MIT · created 2026-10-24 · last push 2026-11-16\
+by **terryHu7** (TIANYU HU) · 📍 HangZhou, China
 
 ## Mobile & Desktop
 
@@ -730,6 +898,68 @@ by **mbezruchko** (Michael Bezruchko) · 📍 Germany
 `Java` · ★ 349 · 45 forks · GPL-3.0 · created 2026-11-04 · last push 2026-11-17\
 by **lordnordic-debug** (LordNordic) · 📍 Colombia
 
+### [nobcdz/CarUp](https://github.com/nobcdz/CarUp)
+**What it solves:** Android head-unit app that lets an iPhone connect over wired or wireless CarPlay. · `Mobile & Desktop`
+
+★ 319 · 11 forks · no license · created 2026-11-10 · last push 2026-11-15\
+by **nobcdz** · 📍 China
+
+### [xMazaki/unbloat-android-tv](https://github.com/xMazaki/unbloat-android-tv)
+**What it solves:** Removes ads and telemetry from Android TVs and installs a minimal home screen, with a way to undo it. · `Mobile & Desktop`
+
+> Slim down any Android TV \(ads, telemetry\) \+ minimalist Apple TV-style home screen. Reversible, one double-click. 🇫🇷 Allégez n'importe quelle TV Android \(pubs, télémétrie\) \+ écran d'accueil minimaliste façon Apple TV. Réversible, en un double-clic.
+
+`Java` · ★ 307 · 25 forks · other license · created 2026-10-24 · last push 2026-10-27\
+by **xMazaki** (Mazaki) · 📍 France
+
+### [op7418/guizang-tv](https://github.com/op7418/guizang-tv)
+**What it solves:** Simple home screen for Xiaomi TVs with large text, wallpapers and direct HDMI input shortcuts. · `Mobile & Desktop`
+
+> 归藏电视：适配国内小米电视的简洁 Android 桌面，大字列表、壁纸轮播与 HDMI 直达。
+
+`Java` · ★ 299 · 36 forks · MIT · created 2026-10-20 · last push 2026-10-22\
+by **op7418** (歸藏) · 📍 beijing
+
+### [imsai-sh/fish-pocket](https://github.com/imsai-sh/fish-pocket)
+**What it solves:** Runs the DeepSeek Harness coding agent natively on iPhone and iPad. · `Mobile & Desktop`
+
+> DSH iOS 移动版：在 iPhone 和 iPad 上本机运行 DeepSeek Harness，界面完全原生，不连电脑和服务器。Run DSH \(DeepSeek Harness\) natively on iPhone and iPad: no computer, no server.
+
+`Swift` · ★ 293 · 33 forks · other license · created 2026-11-05 · last push 2026-11-17\
+by **imsai-sh** (sai) · 📍 Beijing
+
+### [zephyr4123/snug](https://github.com/zephyr4123/snug)
+**What it solves:** Adds virtual screens sized for each device and touch gestures, so a Mac is usable from a phone over UU Remote. · `Mobile & Desktop`
+
+> 为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote.
+
+`Swift` · ★ 270 · 19 forks · MIT · created 2026-11-13 · last push 2026-11-16\
+by **zephyr4123** (zephyr) · 📍 中国.天津
+
+### [the-geeky-couldron/waypoint](https://github.com/the-geeky-couldron/waypoint)
+**What it solves:** Android and Android Auto navigation app that styles real maps after video game worlds. · `Mobile & Desktop`
+
+> Real streets. Game worlds. Native Android navigation with 38 game-inspired maps, sensor-assisted guidance and verified in-app updates.
+
+`Kotlin` · ★ 267 · 11 forks · GPL-3.0 · created 2026-10-30 · last push 2026-11-16\
+by **the-geeky-couldron** (Aryaroop Majumder) · 📍 Bengaluru, India
+
+### [GitMag/UnknownAuto](https://github.com/GitMag/UnknownAuto)
+**What it solves:** Installs sideloaded Android Auto apps marked as Play installs, using only the phone and Shizuku. · `Mobile & Desktop`
+
+> Sideload and install your favourite Android Auto applications from unknown souces using UnknownAuto with just your phone.
+
+`Java` · ★ 265 · 11 forks · MIT · created 2026-10-29 · last push 2026-11-12\
+by **GitMag** (Magnus Forsblom) · 📍 FInland
+
+### [zickrian/isle](https://github.com/zickrian/isle)
+**What it solves:** GNOME Shell extension that puts music, notifications, timers, a clipboard shelf and an AI assistant in a top-bar notch. · `Mobile & Desktop`
+
+> A notch-style island for GNOME that keeps your day one glance away: music with synced lyrics, notifications, calendar, focus timer, tasks, screen time, a clipboard shelf and an AI assistant that installs and fixes things. In black or glass, and light on your system
+
+`Rust` · ★ 256 · 47 forks · GPL-3.0 · created 2026-10-20 · last push 2026-11-13\
+by **zickrian** (Firdaus Khotibul Zickrian) · 📍 Semarang, Central java, Indonesia
+
 ## Science & Research
 
 ### [zita-ch/supermimic_vibed](https://github.com/zita-ch/supermimic_vibed)
@@ -755,6 +985,22 @@ by **alchaincyf** (花叔) · 📍 China
 
 `Python` · ★ 344 · 18 forks · MIT · created 2026-10-25 · last push 2026-11-10\
 by **cvg** (Computer Vision and Geometry Lab · org) · 📍 ETH Zurich
+
+### [dev-Armaan/satellites](https://github.com/dev-Armaan/satellites)
+**What it solves:** Shows which satellites passed over any place in the past week and the public images they took. · `Science & Research`
+
+> Watched.earth - see every public satellite image of earth
+
+`TypeScript` · ★ 272 · 38 forks · MIT · created 2026-11-08 · last push 2026-11-17\
+by **dev-Armaan** (Armaan Gupta) · 📍 Toronto
+
+### [MUSE-AI-Lab/ReMCTS](https://github.com/MUSE-AI-Lab/ReMCTS)
+**What it solves:** Reflect-enhanced Monte Carlo Tree Search for code generation with reflection memory and rewards. · `Science & Research`
+
+> ReMCTS
+
+`Python` · ★ 251 · 0 forks · MIT · created 2026-10-27 · last push 2026-11-11\
+by **MUSE-AI-Lab** (MUSE-Lab · org) · 📍 Shenzhen, China
 
 ## Hardware & IoT
 
@@ -846,6 +1092,28 @@ by **AFangTeam** (EricFang（阿方）) · 📍 南京 Nanjing
 `C` · ★ 362 · 59 forks · no license · created 2026-10-24 · last push 2026-10-26\
 by **nlzy** (NaLan ZeYu) · 📍 China
 
+### [ngxson/esp32-usb-to-airprint](https://github.com/ngxson/esp32-usb-to-airprint)
+**What it solves:** ESP32-S3 firmware that adds AirPrint, Mopria and scanning support to USB-only Canon printers. · `Hardware & IoT`
+
+> Add AirPrint / AirScan support to your old printer, using just a cheap ESP32-S3
+
+`C` · ★ 322 · 50 forks · MIT · created 2026-10-26 · last push 2026-11-09\
+by **ngxson** (Xuan-Son Nguyen) · 📍 France
+
+### [dlt2000/xc-soundfont-synth](https://github.com/dlt2000/xc-soundfont-synth)
+**What it solves:** ESP-IDF component that renders SoundFont audio for DIY electronic instruments. · `Hardware & IoT`
+
+`C` · ★ 313 · 19 forks · MIT · created 2026-10-24 · last push 2026-10-24\
+by **dlt2000** (戴蓝涛\(Dai Lantao\)) · 📍 West Campus, China Jiliang University, Qiantang District, Hangzhou City, Zhejia…
+
+### [victaphu/glass-home-samsung-tv](https://github.com/victaphu/glass-home-samsung-tv)
+**What it solves:** Minimal photo home screen and app dock for Samsung Tizen TVs, with a photo upload site served by the TV. · `Hardware & IoT`
+
+> A minimal home screen for Samsung Tizen TVs: rotating nature photos, a glass dock of your apps, and a photo website served by the TV.
+
+`JavaScript` · ★ 267 · 40 forks · MIT · created 2026-10-21 · last push 2026-11-08\
+by **victaphu** (Victa Kwok Wai Phu) · 📍 Sydney Australia
+
 ## Finance & Crypto
 
 ### [zadescoxp/calibrain-harness](https://github.com/zadescoxp/calibrain-harness)
@@ -855,6 +1123,22 @@ by **nlzy** (NaLan ZeYu) · 📍 China
 
 `Python` · ★ 345 · 72 forks · MIT · created 2026-11-10 · last push 2026-11-13\
 by **zadescoxp** (Zade) · 📍 India
+
+### [renjiegod/dyt-ashare-cli](https://github.com/renjiegod/dyt-ashare-cli)
+**What it solves:** Command-line tool for querying China A-share minute data and running local backtests. · `Finance & Crypto`
+
+> DYT CN: reproducible China-market research CLI and agent skills
+
+`Rust` · ★ 302 · 0 forks · MIT · created 2026-10-20 · last push 2026-10-22\
+by **renjiegod** · 📍 浙江杭州
+
+### [roan-maverick/tradingview-indicator-for-ai-agents](https://github.com/roan-maverick/tradingview-indicator-for-ai-agents)
+**What it solves:** TradingView Pine indicator emitting structured JSON per candle for AI agents to analyze. · `Finance & Crypto`
+
+> Tradingview IndicatorBuilt for AI agents
+
+★ 253 · 40 forks · MIT · created 2026-11-13 · last push 2026-11-13\
+by **roan-maverick** (Roan) · 📍 Dubai
 
 ## Games & Media
 
@@ -991,6 +1275,38 @@ by **ravencaio** (Caio Magalhães) · 📍 Brazil
 
 `C\+\+` · ★ 349 · 39 forks · MIT · created 2026-10-21 · last push 2026-11-16\
 by **Nycolazs** (Nycolas Rocha) · 📍 Fortaleza - Ceará - Brazil
+
+### [ttom795/Skyrim_Android](https://github.com/ttom795/Skyrim_Android)
+**What it solves:** Statically recompiles the 2011 PC game Skyrim for arm64 Android, using the player's own game files. · `Games & Media`
+
+> A static recompilation of Skyrim \(2011\) for Android devices.
+
+`C` · ★ 322 · 17 forks · no license · created 2026-10-25 · last push 2026-11-06\
+by **ttom795** (Toby Tomkinson) · 📍 Auckland, New Zealand
+
+### [mamcjr/TOTKDroid](https://github.com/mamcjr/TOTKDroid)
+**What it solves:** Runs Tears of the Kingdom natively on Android from the user's own game dump. · `Games & Media`
+
+> TOTKDroid \(formerly TOTKRecompAndroid\): The Legend of Zelda: Tears of the Kingdom \(Switch 1.4.3\) running natively on Android - no game files included
+
+`C` · ★ 299 · 18 forks · other license · created 2026-10-29 · last push 2026-11-16\
+by **mamcjr** (Marcos Antonio Moura Campos Junior) · 📍 Teresina -PI
+
+### [fabox-os/Pro-Wave](https://github.com/fabox-os/Pro-Wave)
+**What it solves:** Cross-platform digital audio workstation in Rust with tracks, piano roll, mixer, effects and plug-in hosting. · `Games & Media`
+
+> ProWave, a music production Daw in the style of Logic Pro, written in pure Rust with egui. Tracks, MIDI and audio regions, piano roll, mixer and built-in synth. Builds for Windows, macOS and Linux
+
+`Rust` · ★ 260 · 28 forks · GPL-3.0 · created 2026-10-19 · last push 2026-11-15\
+by **fabox-os** (Fábio Soares) · 📍 Porto, Portugal
+
+### [adrbn/bo2-mac](https://github.com/adrbn/bo2-mac)
+**What it solves:** Statically recompiles a Windows x86 game from the user's own copy to native ARM64 macOS with Metal rendering. · `Games & Media`
+
+> Call of Duty: Black Ops II statically recompiled from 32-bit x86 Windows to native ARM64 macOS: Remill → LLVM IR, a hand-written Win32 runtime, Direct3D 11 drawn by Metal. No Wine, no game files.
+
+`C\+\+` · ★ 258 · 18 forks · GPL-3.0 · created 2026-11-03 · last push 2026-11-13\
+by **adrbn** · 📍 rome
 
 ## Other
 
