@@ -2,9 +2,9 @@
 
 [← Back to the README](../../../README.md) · Sections: [SF Bay Area](sf-bay-area.md) · [Rest of US](rest-of-us.md) · **Outside US** · [Location unknown](location-unknown.md)
 
-163 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-21.
+167 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-22.
 
-**Categories:** [AI & ML](#ai--ml) (38) · [Developer Tools](#developer-tools) (26) · [Infrastructure & DevOps](#infrastructure--devops) (11) · [Data & Databases](#data--databases) (3) · [Security](#security) (8) · [Web & Frontend](#web--frontend) (9) · [Mobile & Desktop](#mobile--desktop) (24) · [Science & Research](#science--research) (5) · [Hardware & IoT](#hardware--iot) (14) · [Finance & Crypto](#finance--crypto) (3) · [Games & Media](#games--media) (21) · [Other](#other) (1)
+**Categories:** [AI & ML](#ai--ml) (39) · [Developer Tools](#developer-tools) (27) · [Infrastructure & DevOps](#infrastructure--devops) (11) · [Data & Databases](#data--databases) (3) · [Security](#security) (9) · [Web & Frontend](#web--frontend) (9) · [Mobile & Desktop](#mobile--desktop) (24) · [Science & Research](#science--research) (5) · [Hardware & IoT](#hardware--iot) (15) · [Finance & Crypto](#finance--crypto) (3) · [Games & Media](#games--media) (21) · [Other](#other) (1)
 
 ## AI & ML
 
@@ -243,6 +243,14 @@ by **SheepSeb** (Sebastian-Ion Nae) · 📍 Bucharest
 
 `TypeScript` · ★ 332 · 31 forks · MIT · created 2026-10-28 · last push 2026-11-16\
 by **muaaz9329** (Muaaz) · 📍 Copenhagen
+
+### [drost-ai/tinker-ai-skill](https://github.com/drost-ai/tinker-ai-skill)
+**What it solves:** Pipeline to fine-tune a local model on your own coding-agent sessions using Tinker. · `AI & ML`
+
+> Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.
+
+`Python` · ★ 325 · 39 forks · MIT · created 2026-11-07 · last push 2026-11-07\
+by **drost-ai** (Continuity Research) · 📍 Vancouver, Canada
 
 ### [KenKaiii/Roamies](https://github.com/KenKaiii/Roamies)
 **What it solves:** Desktop AI companion that takes voice or text, tracks your commitments and sends reminders. · `AI & ML`
@@ -484,6 +492,12 @@ by **AIDotNet** (org) · 📍 China
 `JavaScript` · ★ 285 · 130 forks · MIT · created 2026-10-28 · last push 2026-11-14\
 by **khanh020905** (Lê Nguyên Quốc Khánh) · 📍 Viet Nam
 
+### [dqhieu/Silica](https://github.com/dqhieu/Silica)
+**What it solves:** Lightweight native macOS code editor with git, previews and terminal. · `Developer Tools`
+
+`Swift` · ★ 279 · 21 forks · MIT · created 2026-11-08 · last push 2026-11-16\
+by **dqhieu** (Hieu Dinh) · 📍 Singapore
+
 ### [egoist/asuka](https://github.com/egoist/asuka)
 **What it solves:** UI language and toolchain that renders native widgets on desktop, mobile and web from one codebase. · `Developer Tools`
 
@@ -695,6 +709,14 @@ by **galadran** (Dennis Jackson) · 📍 UK
 
 `Python` · ★ 361 · 36 forks · no license · created 2026-10-29 · last push 2026-10-30\
 by **soimy** (Shen Yiming) · 📍 Shanghai, China
+
+### [JFC-Group/Housekeeping-PoC](https://github.com/JFC-Group/Housekeeping-PoC)
+**What it solves:** Bootloader unlock exploit for Jio set-top boxes owned by the user. · `Security`
+
+> Sweeping in the cracks
+
+`Shell` · ★ 278 · 149 forks · Apache-2.0 · created 2026-10-24 · last push 2026-11-04\
+by **JFC-Group** (JFC Group · org) · 📍 India
 
 ## Web & Frontend
 
@@ -1105,6 +1127,14 @@ by **ngxson** (Xuan-Son Nguyen) · 📍 France
 
 `C` · ★ 313 · 19 forks · MIT · created 2026-10-24 · last push 2026-10-24\
 by **dlt2000** (戴蓝涛\(Dai Lantao\)) · 📍 West Campus, China Jiliang University, Qiantang District, Hangzhou City, Zhejia…
+
+### [YusufOzmen01/openhouse](https://github.com/YusufOzmen01/openhouse)
+**What it solves:** Replacement SteamVR lighthouse driver with better tracking and firmware for more than two 1.0 base stations. · `Hardware & IoT`
+
+> An open source, reverse engineered and improved SteamVR lighthouse driver with support for both 1.0 and 2.0 lighthouses, with a custom firmware for 1.0 lighthouses to support more than 2 basestations at the same time\!
+
+`C\+\+` · ★ 274 · 26 forks · MIT · created 2026-10-22 · last push 2026-11-17\
+by **YusufOzmen01** (Yusuf Çınar Özmen) · 📍 Turkey
 
 ### [victaphu/glass-home-samsung-tv](https://github.com/victaphu/glass-home-samsung-tv)
 **What it solves:** Minimal photo home screen and app dock for Samsung Tizen TVs, with a photo upload site served by the TV. · `Hardware & IoT`

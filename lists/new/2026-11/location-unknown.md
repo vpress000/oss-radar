@@ -2,9 +2,9 @@
 
 [← Back to the README](../../../README.md) · Sections: [SF Bay Area](sf-bay-area.md) · [Rest of US](rest-of-us.md) · [Outside US](outside-us.md) · **Location unknown**
 
-361 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-21.
+380 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-22.
 
-**Categories:** [AI & ML](#ai--ml) (92) · [Developer Tools](#developer-tools) (43) · [Infrastructure & DevOps](#infrastructure--devops) (5) · [Data & Databases](#data--databases) (4) · [Security](#security) (23) · [Web & Frontend](#web--frontend) (23) · [Mobile & Desktop](#mobile--desktop) (60) · [Science & Research](#science--research) (11) · [Hardware & IoT](#hardware--iot) (16) · [Finance & Crypto](#finance--crypto) (5) · [Games & Media](#games--media) (77) · [Other](#other) (2)
+**Categories:** [AI & ML](#ai--ml) (99) · [Developer Tools](#developer-tools) (44) · [Infrastructure & DevOps](#infrastructure--devops) (5) · [Data & Databases](#data--databases) (5) · [Security](#security) (23) · [Web & Frontend](#web--frontend) (25) · [Mobile & Desktop](#mobile--desktop) (64) · [Science & Research](#science--research) (12) · [Hardware & IoT](#hardware--iot) (16) · [Finance & Crypto](#finance--crypto) (5) · [Games & Media](#games--media) (79) · [Other](#other) (3)
 
 ## AI & ML
 
@@ -600,6 +600,14 @@ by **raylee-ai** (Ray Lee)
 `Python` · ★ 328 · 45 forks · Apache-2.0 · created 2026-10-30 · last push 2026-11-11\
 by **OpenBMB** (org)
 
+### [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill)
+**What it solves:** Agent skill and CLI detector that cleans AI writing patterns from Turkish text. · `AI & ML`
+
+> Türkçe metinlerdeki yapay zeka izlerini \(AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını\) temizleyen Agent Skill ve Humanizer paketi.
+
+`Python` · ★ 326 · 26 forks · MIT · created 2026-11-05 · last push 2026-11-11\
+by **yucezerey** (Yuce Zerey)
+
 ### [ywEdAi/teachable-figures](https://github.com/ywEdAi/teachable-figures)
 **What it solves:** Agent skill that builds interactive teaching figures where learners predict, change a cause and explain. · `AI & ML`
 
@@ -662,6 +670,12 @@ by **pmndre** (Poimandre · org)
 `Python` · ★ 286 · 48 forks · Apache-2.0 · created 2026-10-21 · last push 2026-10-27\
 by **recursive-oss** (Recursive · org)
 
+### [wy51ai/easycolab](https://github.com/wy51ai/easycolab)
+**What it solves:** Cross-platform clients for deploying and using AI models on Google Colab GPUs. · `AI & ML`
+
+`Python` · ★ 283 · 57 forks · Apache-2.0 · created 2026-11-07 · last push 2026-11-16\
+by **wy51ai** (WY)
+
 ### [YUsaltyfish/dsh-onebot-qq](https://github.com/YUsaltyfish/dsh-onebot-qq)
 **What it solves:** Connects DeepSeek Harness to QQ via OneBot v11 as a chat bot with sub-plugins. · `AI & ML`
 
@@ -669,6 +683,44 @@ by **recursive-oss** (Recursive · org)
 
 `JavaScript` · ★ 283 · 2 forks · MIT · created 2026-10-20 · last push 2026-11-16\
 by **YUsaltyfish**
+
+### [beiwocaishijia/gezhi-sheets](https://github.com/beiwocaishijia/gezhi-sheets)
+**What it solves:** Local spreadsheet app where LLMs extract, clean and compute data with preview. · `AI & ML`
+
+> 格知 AI · Gezhi Sheets｜让表格听懂你的话。支持 GLM、Kimi、豆包、DeepSeek、Qwen 的本地 AI 表格助手。
+
+`JavaScript` · ★ 277 · 100 forks · MIT · created 2026-11-09 · last push 2026-11-09\
+by **beiwocaishijia**
+
+### [YTruman/better-skill](https://github.com/YTruman/better-skill)
+**What it solves:** Agent skill that audits, scores and helps build other AI agent skills. · `AI & ML`
+
+> The doctor's manual for AI agent skills — audit, score and build skills with an evidence-based standard. 技能医生
+
+★ 277 · 20 forks · MIT · created 2026-10-27 · last push 2026-11-04\
+by **YTruman** (楚门Truman)
+
+### [jwang771/3d-world-simulator](https://github.com/jwang771/3d-world-simulator)
+**What it solves:** Learned particle-voxel dynamics models that simulate robot manipulation of cloth, boxes and parts, with data and checkpoints. · `AI & ML`
+
+`Python` · ★ 276 · 24 forks · no license · created 2026-11-02 · last push 2026-11-02\
+by **jwang771** (Jimmy Wang)
+
+### [TencentARC/Looking-Ahead](https://github.com/TencentARC/Looking-Ahead)
+**What it solves:** Trains autoregressive video models to predict future chunks, improving physical consistency; includes code and weights. · `AI & ML`
+
+> Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation
+
+`Python` · ★ 275 · 4 forks · other license · created 2026-10-21 · last push 2026-10-26\
+by **TencentARC** (ARC Lab, Tencent PCG · org)
+
+### [InariNGT-Ofiicial/dsh-bili-humanism](https://github.com/InariNGT-Ofiicial/dsh-bili-humanism)
+**What it solves:** DeepSeek Harness plugin that reads Bilibili videos and turns them into reflective journal notes and persona memory. · `AI & ML`
+
+> 用多彩的人类世界，训练 DSH 的人格：默认积累信笺反思于专用 human-world.md；允许通过 DSH 与外部插件接驳。历史、收藏、点赞与投币独立默认关闭；本项目不提供评论接口。
+
+`JavaScript` · ★ 274 · 17 forks · MIT · created 2026-10-20 · last push 2026-11-11\
+by **InariNGT-Ofiicial**
 
 ### [Balanov/uncut](https://github.com/Balanov/uncut)
 **What it solves:** Minimal headless coding-agent CLI that sends full context and never silently truncates output. · `AI & ML`
@@ -1056,6 +1108,14 @@ by **govijr**
 `Go` · ★ 284 · 24 forks · AGPL-3.0 · created 2026-10-26 · last push 2026-11-17\
 by **Licoy** (憧憬Licoy) · 📍 the Earth
 
+### [swipt-automation/official-swiplets](https://github.com/swipt-automation/official-swiplets)
+**What it solves:** Official extension scripts for the Swipt automation tool. · `Developer Tools`
+
+> Official Swiplets for Swipt
+
+`TypeScript` · ★ 278 · 14 forks · other license · created 2026-11-05 · last push 2026-11-12\
+by **swipt-automation** (Swipt Automation · org)
+
 ### [NewBeeM4n/codex-overload-fix](https://github.com/NewBeeM4n/codex-overload-fix)
 **What it solves:** Local relay that retries Codex 'model at capacity' errors before they interrupt your session. · `Developer Tools`
 
@@ -1147,6 +1207,14 @@ by **lexifina** (Lexifina · org)
 
 `Rust` · ★ 297 · 25 forks · Apache-2.0 · created 2026-11-04 · last push 2026-11-17\
 by **relatedb** (org)
+
+### [YOLOW92/pagesift](https://github.com/YOLOW92/pagesift)
+**What it solves:** Self-hosted Rust engine converting web pages and documents into Markdown and JSON. · `Data & Databases`
+
+> Local-first web & document ingestion engine in Rust — HTTP/browser capture, layout-aware PDF/Office/OCR parsing, persistent sync, and verifiable data graphs.
+
+`Rust` · ★ 278 · 37 forks · Apache-2.0 · created 2026-10-20 · last push 2026-11-16\
+by **YOLOW92** (吴袁超)
 
 ## Security
 
@@ -1503,6 +1571,22 @@ by **Junhan2** (junhan2)
 
 `JavaScript` · ★ 322 · 21 forks · MIT · created 2026-10-23 · last push 2026-10-30\
 by **liu7866**
+
+### [bvvst/intern](https://github.com/bvvst/intern)
+**What it solves:** Rounded variable-weight variant of the Inter typeface. · `Web & Frontend`
+
+> a fully rounded, variable weight variant of Inter
+
+★ 282 · 1 forks · OFL-1.1 · created 2026-11-09 · last push 2026-11-09\
+by **bvvst** (luke)
+
+### [anomalyco/textjs](https://github.com/anomalyco/textjs)
+**What it solves:** React framework for building apps that render inside the browser console. · `Web & Frontend`
+
+> A React framework for apps that render in the browser console.
+
+`TypeScript` · ★ 281 · 8 forks · MIT · created 2026-11-02 · last push 2026-11-14\
+by **anomalyco** (Anomaly · org)
 
 ### [leishifu666/LeiBox](https://github.com/leishifu666/LeiBox)
 **What it solves:** Library of interactive web animation components for six frameworks, with an AI skill that finds and adds them. · `Web & Frontend`
@@ -1936,6 +2020,38 @@ by **mornyeapp** (Mornye Open Source Project · org)
 `TypeScript` · ★ 297 · 3 forks · AGPL-3.0 · created 2026-11-03 · last push 2026-11-17\
 by **TixXin**
 
+### [KiritoXDone/c001apk](https://github.com/KiritoXDone/c001apk)
+**What it solves:** Unofficial Android client for the Coolapk community built with Jetpack Compose. · `Mobile & Desktop`
+
+> 基于 Jetpack Compose 与原生 miuix 的非官方酷安客户端
+
+`Kotlin` · ★ 283 · 11 forks · AGPL-3.0 · created 2026-10-24 · last push 2026-11-16\
+by **KiritoXDone**
+
+### [SAINTTaiYi/SpektraLab-Android](https://github.com/SAINTTaiYi/SpektraLab-Android)
+**What it solves:** Android app doing physically modelled film simulation from RAW photos using Vulkan. · `Mobile & Desktop`
+
+> Unofficial Android port of the SpektraLab film & paper simulation engine \(Vulkan\): RAW in, physically modelled film out, on the phone.
+
+`Java` · ★ 282 · 21 forks · GPL-3.0 · created 2026-10-29 · last push 2026-11-10\
+by **SAINTTaiYi**
+
+### [AldenHe/huayoupu-ledger](https://github.com/AldenHe/huayoupu-ledger)
+**What it solves:** Offline Android ledger that records WeChat and Alipay payments via local OCR. · `Mobile & Desktop`
+
+> 花有谱记账：少点手动，收支有谱。Android 本地离线记账，支持微信、支付宝支付成功页自动识别、摇一摇补录、账单统计与备份，无需账号或服务器。
+
+`Kotlin` · ★ 279 · 57 forks · GPL-3.0 · created 2026-11-01 · last push 2026-11-06\
+by **AldenHe**
+
+### [Koustubh12345/YTXTube](https://github.com/Koustubh12345/YTXTube)
+**What it solves:** Lightweight Android YouTube client with downloads, lyrics and TV support. · `Mobile & Desktop`
+
+> YTXTube: A lightweight YouTube and YouTube Music client with ad-free playback, synced lyrics, and high-quality downloads for Android phones, tablets, and TV.
+
+`Kotlin` · ★ 276 · 34 forks · GPL-3.0 · created 2026-10-26 · last push 2026-11-07\
+by **Koustubh12345** (Koustubh Gaikwad)
+
 ### [neondeex/atlas-filemanager](https://github.com/neondeex/atlas-filemanager)
 **What it solves:** Fast, keyboard-driven, GPU-rendered file manager for Windows with previews, search and local conversion. · `Mobile & Desktop`
 
@@ -2087,6 +2203,14 @@ by **molence** (org)
 
 `Python` · ★ 295 · 58 forks · MIT · created 2026-11-08 · last push 2026-11-08\
 by **ScottDuncanAI**
+
+### [ChazY11/medradar](https://github.com/ChazY11/medradar)
+**What it solves:** Research platform tracking FDA and other public signals on medical device companies. · `Science & Research`
+
+> An evidence-first research platform for observing and studying early signals in medical technology development.
+
+`Python` · ★ 276 · 19 forks · other license · created 2026-10-31 · last push 2026-11-17\
+by **ChazY11**
 
 ## Hardware & IoT
 
@@ -2584,6 +2708,14 @@ by **quer3q** · 📍 🌍 Earth
 ★ 444 · 31 forks · no license · created 2026-11-01 · last push 2026-11-13\
 by **MythosOfs**
 
+### [mille-okws/pestinha](https://github.com/mille-okws/pestinha)
+**What it solves:** Desktop virtual pet driven by a spiking neural network that learns from user interaction, running locally. · `Games & Media`
+
+> Pestinha é um pet virtual de desktop para Windows, com rede neural pulsada, emoções e personalidade que evolui com o usuário. Ele aprende com carinho e consequências, faz travessuras, brinca, trabalha e reage ao ambiente. Tudo funciona localmente, sem depender da nuvem.
+
+`Python` · ★ 430 · 110 forks · GPL-3.0 · created 2026-11-01 · last push 2026-11-10\
+by **mille-okws**
+
 ### [AnantPlay/android](https://github.com/AnantPlay/android)
 **What it solves:** TV-first Android app that extracts site video into a native player, with ad blocking and IPTV. · `Games & Media`
 
@@ -2776,6 +2908,14 @@ by **quer3q** · 📍 🌍 Earth
 `Python` · ★ 285 · 15 forks · GPL-2.0 · created 2026-11-09 · last push 2026-11-16\
 by **blue0x1** (Chokri Hammedi)
 
+### [gamboozino/ng2recomp](https://github.com/gamboozino/ng2recomp)
+**What it solves:** Static recompilation of an Xbox 360 game into native Linux/Windows builds; users supply their own game data. · `Games & Media`
+
+> Ninja Gaiden II \(Xbox 360, 2008\) statically recompiled into native Linux and Windows builds, drawn by its own Vulkan renderer. A steady 60 fps, up to 8x render scale, widescreen and ultrawide, keyboard and mouse, mods, Steam Deck ready. Bring your own copy of the game.
+
+`C\+\+` · ★ 274 · 9 forks · GPL-3.0 · created 2026-10-30 · last push 2026-11-17\
+by **gamboozino**
+
 ### [igawa6/peanuts-native](https://github.com/igawa6/peanuts-native)
 **What it solves:** Recompiles Switch game dumps you own to run natively on Android, with a live companion on the second screen. · `Games & Media`
 
@@ -2863,6 +3003,14 @@ by **nearaura** (org)
 
 `Python` · ★ 478 · 49 forks · no license · created 2026-10-19 · last push 2026-10-19\
 by **timhengc**
+
+### [o-Sakurajimamai-o/cet-practice](https://github.com/o-Sakurajimamai-o/cet-practice)
+**What it solves:** Local desktop app for practicing past CET and postgraduate English exam papers. · `Other`
+
+> 英语研习室：本地在线历年真题练习（四六级、考研）
+
+`Python` · ★ 281 · 16 forks · other license · created 2026-10-25 · last push 2026-11-13\
+by **o-Sakurajimamai-o** (Sakurajimamai)
 
 ### [abckkf321/-mcd-fair-split](https://github.com/abckkf321/-mcd-fair-split)
 **What it solves:** Splits a shared McDonald's order among diners, allocating items, discounts and delivery fees down to the cent. · `Other`

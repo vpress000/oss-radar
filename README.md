@@ -7,9 +7,7 @@ A weekly directory of **new and fast-rising open-source repositories**, with the
 
 Every listed repo has been checked by Claude to make sure it is real software that solves a specific problem.
 
-_Updated 2026-11-21 · 860 repos listed · 4,938 tracked · 31 waiting for review_
-
-> ⏳ **31 repos are waiting for review.** Claude checks up to 300 a night, and each repo appears here once it passes.
+_Updated 2026-11-22 · 883 repos listed · 4,930 tracked · 0 waiting for review_
 
 ## 🔥 Gaining traction this week
 

@@ -2,7 +2,7 @@
 
 [← Back to the README](../../../README.md) · Sections: [SF Bay Area](sf-bay-area.md) · **Rest of US** · [Outside US](outside-us.md) · [Location unknown](location-unknown.md)
 
-193 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-21.
+193 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-22.
 
 **Categories:** [AI & ML](#ai--ml) (46) · [Developer Tools](#developer-tools) (40) · [Infrastructure & DevOps](#infrastructure--devops) (7) · [Data & Databases](#data--databases) (4) · [Security](#security) (12) · [Web & Frontend](#web--frontend) (14) · [Mobile & Desktop](#mobile--desktop) (18) · [Science & Research](#science--research) (15) · [Hardware & IoT](#hardware--iot) (9) · [Finance & Crypto](#finance--crypto) (2) · [Games & Media](#games--media) (22) · [Other](#other) (4)
 
