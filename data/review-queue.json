@@ -1,5 +1,256 @@
 {
-  "updated": "2026-11-22",
-  "waiting": 0,
-  "next": []
+  "updated": "2026-11-23",
+  "waiting": 311,
+  "next": [
+    {
+      "repo": "Hut-hzf/ung220z-tool",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "JosssphZhou/poki",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "atuizz/posewear",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "HRuiCcc/RuiC-PoseAtlas",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Arjun-Ingole/hop",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "chadyi/StudyOnTV",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "anonnerdfrenzy/survival-llm",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "neuregex/freefield",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "woniuniuniu/dsh-media-desk",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Seagey/couch-tv",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "livliv-dev/player",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "AhmadHassan-BTed/RainGen-RainGenerator",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "9bie/php2shell-bypass-aslr-exp",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "egoist/mygo-music",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "sqlpxc/airhand",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "openai/php2shell-checker",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "VaneAi888/vane-gpt-image-skills",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "omonkeyz/xbox-emulator",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "RainBowLuoCS/Gamer",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "R0Y00/Xbox2Windows",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "Lemxy/WinRust",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "kolbicz/WQFiles",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "pithings/unkernel",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "ybblab/Jiumi",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "mxhm11cr/LinuxRunner",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "Marker284/yandex-station-extended",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "sloemo01/diorama",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "0xkaka/homeport",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "smarkyie/NSP-Box",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "VivaLaVent/ps5-bazzite-deck",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "andrew-babo/muse4ai",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "CityPulso/PulsoIcon-Package",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "liuhaisi2026212-maker/taishang-laojun",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "Tencent-Hunyuan/Hy-Nomas",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "riyadhHDA/wichforks",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "MarkBlah/smsofdeath",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "DuskBotAI/duskbot",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "stubbi/asm",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "danielwh2/sprite-stacking",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "molly554/whiteboard-ai-tutor",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "gelenmedya/rustyfiles",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "apple-aiml-research/ml-depth-pro-2",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "fendouai/ViralForge",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "realdody/americas-recomp",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "CocoSgt/riemann-hypothesis-lean",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "sa4hnd/YouDash",
+      "section": "outside-us",
+      "why": "new"
+    },
+    {
+      "repo": "Sunghwan0112/spritecast",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "CoderL98/hghub-plugins",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "ThreatDefence/agentic-attack-detections",
+      "section": "location-unknown",
+      "why": "new"
+    },
+    {
+      "repo": "noctalia-dev/luciole",
+      "section": "location-unknown",
+      "why": "new"
+    }
+  ]
 }
