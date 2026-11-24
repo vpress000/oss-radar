@@ -2,9 +2,9 @@
 
 [← Back to the README](../../../README.md) · Sections: [SF Bay Area](sf-bay-area.md) · [Rest of US](rest-of-us.md) · **Outside US** · [Location unknown](location-unknown.md)
 
-182 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-23.
+203 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-24.
 
-**Categories:** [AI & ML](#ai--ml) (41) · [Developer Tools](#developer-tools) (30) · [Infrastructure & DevOps](#infrastructure--devops) (11) · [Data & Databases](#data--databases) (3) · [Security](#security) (10) · [Web & Frontend](#web--frontend) (10) · [Mobile & Desktop](#mobile--desktop) (28) · [Science & Research](#science--research) (5) · [Hardware & IoT](#hardware--iot) (16) · [Finance & Crypto](#finance--crypto) (3) · [Games & Media](#games--media) (24) · [Other](#other) (1)
+**Categories:** [AI & ML](#ai--ml) (46) · [Developer Tools](#developer-tools) (33) · [Infrastructure & DevOps](#infrastructure--devops) (12) · [Data & Databases](#data--databases) (3) · [Security](#security) (11) · [Web & Frontend](#web--frontend) (10) · [Mobile & Desktop](#mobile--desktop) (33) · [Science & Research](#science--research) (5) · [Hardware & IoT](#hardware--iot) (18) · [Finance & Crypto](#finance--crypto) (3) · [Games & Media](#games--media) (28) · [Other](#other) (1)
 
 ## AI & ML
 
@@ -294,6 +294,14 @@ by **drost-ai** (Continuity Research) · 📍 Vancouver, Canada
 `TypeScript` · ★ 320 (+64 this week) · 60 forks · Apache-2.0 · created 2026-10-24 · last push 2026-10-28\
 by **lemonadesaltbagel** (Austin Huang) · 📍 Sydney, Australia
 
+### [TubeLabHQ/youtube-research-skills](https://github.com/TubeLabHQ/youtube-research-skills)
+**What it solves:** Agent skills for YouTube research such as niche finding, outlier videos and sponsor prospecting. · `AI & ML`
+
+> AI agent skills for YouTube research. Outlier videos, niche finding & validation, competitor research, comment mining, title formulas, thumbnail concepts, script breakdowns, monetization gaps & sponsor prospecting. Powered by TubeLab. Works with Claude Code, Cursor, Codex, ChatGPT, Grok.
+
+`JavaScript` · ★ 320 · 49 forks · MIT · created 2026-11-04 · last push 2026-11-21\
+by **TubeLabHQ** (org) · 📍 Portugal
+
 ### [CXP-2024/gpt-anime-denoise](https://github.com/CXP-2024/gpt-anime-denoise)
 **What it solves:** Removes fish-scale and fragmented-shading artifacts from GPT-generated anime images without redrawing them. · `AI & ML`
 
@@ -318,6 +326,12 @@ by **gokayfem** (Gökay Aydoğan) · 📍 Turkey
 `Rust` · ★ 303 (+14 this week) · 66 forks · MIT · created 2026-10-24 · last push 2026-11-04\
 by **MCG-NJU** (Multimedia Computing Group, Nanjing University · org) · 📍 Nanjing
 
+### [OpenSenseNova/SenseNova-Loop](https://github.com/OpenSenseNova/SenseNova-Loop)
+**What it solves:** Open 9B multimodal model that reuses its layers in a loop to get deeper reasoning from fewer parameters. · `AI & ML`
+
+`Python` · ★ 284 · 23 forks · Apache-2.0 · created 2026-10-29 · last push 2026-11-18\
+by **OpenSenseNova** (SenseNova · org) · 📍 Hong Kong
+
 ### [R238Company/meu-emprego-novo](https://github.com/R238Company/meu-emprego-novo)
 **What it solves:** AI agents that tailor resumes to job postings from a user's own career profile, outputting LaTeX/PDF. · `AI & ML`
 
@@ -326,6 +340,14 @@ by **MCG-NJU** (Multimedia Computing Group, Nanjing University · org) · 📍 N
 `Python` · ★ 265 (+7 this week) · 63 forks · MIT · created 2026-10-31 · last push 2026-11-03\
 by **R238Company** (R238 · org) · 📍 Brazil
 
+### [yanstd888/9routerx](https://github.com/yanstd888/9routerx)
+**What it solves:** Self-hosted Go gateway that routes LLM requests across providers with failover and token compression. · `AI & ML`
+
+> 9RouterX \(9R Next Go Generation\): Single-binary Go AI router, LLM gateway & 20-40% token saver. Route Claude Code, Cursor & Codex across 155 providers, 28 OAuth & 248 free models \(24 keyless\) — OpenAI, Claude, Gemini, DeepSeek, Groq, Ollama & MCP.
+
+`Go` · ★ 263 · 159 forks · other license · created 2026-11-07 · last push 2026-11-23\
+by **yanstd888** (Yanstd) · 📍 Indonesia
+
 ### [nicobailon/skill-diet](https://github.com/nicobailon/skill-diet)
 **What it solves:** Trims bloated agent skill files and checks them against the tools they describe, with tested before/after evals. · `AI & ML`
 
@@ -333,6 +355,22 @@ by **R238Company** (R238 · org) · 📍 Brazil
 
 `JavaScript` · ★ 262 (+3 this week) · 10 forks · MIT · created 2026-10-24 · last push 2026-11-06\
 by **nicobailon** (Nico Bailon) · 📍 Vancouver, BC
+
+### [Vaibhaav-Tiwari/deepseek-v3-jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)
+**What it solves:** Minimal pure-JAX implementation of the DeepSeek V3 architecture, trainable on a laptop. · `AI & ML`
+
+> DeepSeek V3 \(MLA, DeepSeekMoE, aux-loss-free balancing, MTP\) in \~200 lines of pure JAX, trained on a MacBook Air.
+
+`Python` · ★ 260 · 21 forks · MIT · created 2026-11-13 · last push 2026-11-15\
+by **Vaibhaav-Tiwari** (Vaibhaav Tiwari) · 📍 Gurgaon
+
+### [dongguanting/ToolSpace](https://github.com/dongguanting/ToolSpace)
+**What it solves:** Synthesizes verified tool-use environments and long-horizon tasks from real tool traces to train agents. · `AI & ML`
+
+> The official code of ToolSpace
+
+`Python` · ★ 255 · 3 forks · no license · created 2026-10-27 · last push 2026-11-05\
+by **dongguanting** (KABI) · 📍 Beijing, China
 
 ## Developer Tools
 
@@ -526,6 +564,14 @@ by **AIDotNet** (org) · 📍 China
 `TypeScript` · ★ 323 · 9 forks · MIT · created 2026-10-28 · last push 2026-11-21\
 by **zklmiao** · 📍 China
 
+### [erkamyaman/unslop-anything](https://github.com/erkamyaman/unslop-anything)
+**What it solves:** Agent skill and detector that finds and fixes AI-looking UI and UX problems in apps and sites. · `Developer Tools`
+
+> Your app looks AI-generated. unslop-anything noticed. An agent skill that finds and fixes AI-looking UI and UX in mobile apps, web apps, and websites.
+
+`JavaScript` · ★ 321 · 23 forks · MIT · created 2026-11-09 · last push 2026-11-23\
+by **erkamyaman** (erKam) · 📍 Istanbul 🇹🇷
+
 ### [dqhieu/Silica](https://github.com/dqhieu/Silica)
 **What it solves:** Lightweight native macOS code editor with git, previews and terminal. · `Developer Tools`
 
@@ -539,6 +585,14 @@ by **dqhieu** (Hieu Dinh) · 📍 Singapore
 
 `C` · ★ 317 (+45 this week) · 17 forks · MIT · created 2026-10-29 · last push 2026-11-21\
 by **egoist** (EGOIST) · 📍 China
+
+### [Vancete/gitcraft](https://github.com/Vancete/gitcraft)
+**What it solves:** Lightweight cross-platform graph-based visual Git client built on the installed git CLI · `Developer Tools`
+
+> A visual git client, simple to use yet powerful. Light, fast and debloated.
+
+`Rust` · ★ 314 · 31 forks · Apache-2.0 · created 2026-10-27 · last push 2026-11-20\
+by **Vancete** (Iván Serrano Martín) · 📍 Valencia, Spain
 
 ### [khanh020905/my-office](https://github.com/khanh020905/my-office)
 **What it solves:** Visualizes Claude Code sessions as characters in a 3D office with machine monitoring. · `Developer Tools`
@@ -555,6 +609,14 @@ by **khanh020905** (Lê Nguyên Quốc Khánh) · 📍 Viet Nam
 
 `TypeScript` · ★ 286 (+15 this week) · 17 forks · MIT · created 2026-10-21 · last push 2026-11-16\
 by **Konata9** · 📍 Shanghai, China
+
+### [leostera/git-twig](https://github.com/leostera/git-twig)
+**What it solves:** Creates git worktrees that share unchanged files, so each coding agent's checkout uses far less disk. · `Developer Tools`
+
+> lightweight git-worktrees for agents
+
+`Rust` · ★ 284 · 11 forks · MIT · created 2026-11-15 · last push 2026-11-23\
+by **leostera** (Leo Ostera) · 📍 London, UK
 
 ### [enmerasoftware/ai-design-check](https://github.com/enmerasoftware/ai-design-check)
 **What it solves:** Design rules and zero-dependency checker that finds and fixes AI-built UI issues. · `Developer Tools`
@@ -653,6 +715,14 @@ by **tobi** (Tobias Lütke) · 📍 Ottawa, Canada
 
 `JavaScript` · ★ 295 (+9 this week) · 139 forks · GPL-3.0 · created 2026-10-20 · last push 2026-11-08\
 by **eooce** (老王) · 📍 Singapore
+
+### [littledivy/tailnet-do](https://github.com/littledivy/tailnet-do)
+**What it solves:** Runs a Tailscale node inside a Cloudflare Durable Object to serve or reach private tailnet hosts. · `Infrastructure & DevOps`
+
+> Put a Cloudflare Durable Object on your Tailscale tailnet
+
+`JavaScript` · ★ 276 · 12 forks · MIT · created 2026-11-07 · last push 2026-11-13\
+by **littledivy** (Divy) · 📍 Netherlands
 
 ### [0xRadikal/Free-Telegram-Proxy](https://github.com/0xRadikal/Free-Telegram-Proxy)
 **What it solves:** Auto-updated, verified free Telegram MTProto proxy lists for censored networks. · `Infrastructure & DevOps`
@@ -759,6 +829,14 @@ by **galadran** (Dennis Jackson) · 📍 UK
 
 `Python` · ★ 362 (+1 this week) · 37 forks · no license · created 2026-10-29 · last push 2026-10-30\
 by **soimy** (Shen Yiming) · 📍 Shanghai, China
+
+### [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007)
+**What it solves:** Proof-of-concept scripts demonstrating an integer underflow RCE in NGINX HTTP/2 · `Security`
+
+> Proof-of-concept \(PoC\) scripts for CVE-2026-123007, an integer underflow in NGINX HTTP/2.
+
+`Python` · ★ 296 · 119 forks · no license · created 2026-11-18 · last push 2026-11-18\
+by **sfewer-r7** (Stephen Fewer) · 📍 Ireland
 
 ### [JFC-Group/Housekeeping-PoC](https://github.com/JFC-Group/Housekeeping-PoC)
 **What it solves:** Bootloader unlock exploit for Jio set-top boxes owned by the user. · `Security`
@@ -1048,6 +1126,14 @@ by **xMazaki** (Mazaki) · 📍 France
 `Java` · ★ 303 (+4 this week) · 37 forks · MIT · created 2026-10-20 · last push 2026-10-22\
 by **op7418** (歸藏) · 📍 beijing
 
+### [MrTangLuyao/sniplite](https://github.com/MrTangLuyao/sniplite)
+**What it solves:** Fast, tiny screenshot and pin tool with OCR and long screenshots, core in assembly · `Mobile & Desktop`
+
+> A tiny, fast screenshot and pin tool written in assembly and C, with OCR and long screenshots
+
+`Assembly` · ★ 300 · 22 forks · MIT · created 2026-11-09 · last push 2026-11-20\
+by **MrTangLuyao** (LouieTang) · 📍 Melbourne
+
 ### [zickrian/isle](https://github.com/zickrian/isle)
 **What it solves:** GNOME Shell extension that puts music, notifications, timers, a clipboard shelf and an AI assistant in a top-bar notch. · `Mobile & Desktop`
 
@@ -1055,6 +1141,14 @@ by **op7418** (歸藏) · 📍 beijing
 
 `Rust` · ★ 295 (+39 this week) · 51 forks · GPL-3.0 · created 2026-10-20 · last push 2026-11-18\
 by **zickrian** (Firdaus Khotibul Zickrian) · 📍 Semarang, Central java, Indonesia
+
+### [alztrk/opentaskbar](https://github.com/alztrk/opentaskbar)
+**What it solves:** Floating macOS-style dock and widget system replacing the Windows taskbar · `Mobile & Desktop`
+
+> Lightweight macOS-inspired floating dock and taskbar replacement for Windows 10 and 11
+
+`C\#` · ★ 291 · 25 forks · MIT · created 2026-11-15 · last push 2026-11-22\
+by **alztrk** (Alican Öztürk) · 📍 Istanbul, Turkey
 
 ### [GitMag/UnknownAuto](https://github.com/GitMag/UnknownAuto)
 **What it solves:** Installs sideloaded Android Auto apps marked as Play installs, using only the phone and Shizuku. · `Mobile & Desktop`
@@ -1071,6 +1165,30 @@ by **GitMag** (Magnus Forsblom) · 📍 FInland
 
 `Kotlin` · ★ 276 (+9 this week) · 12 forks · GPL-3.0 · created 2026-10-30 · last push 2026-11-23\
 by **the-geeky-couldron** (Aryaroop Majumder) · 📍 Bengaluru, India
+
+### [m1guelpf/Exo](https://github.com/m1guelpf/Exo)
+**What it solves:** Fast native Gmail client for macOS that talks to Gmail directly, with no third-party server. · `Mobile & Desktop`
+
+> A fast, local and native Gmail client for macOS, inspired by Superhuman.
+
+`Rust` · ★ 275 · 11 forks · MIT · created 2026-11-21 · last push 2026-11-22\
+by **m1guelpf** (Miguel Piedrafita) · 📍 Lisbon, Portugal
+
+### [shreyas-bangera/smarttube-phone](https://github.com/shreyas-bangera/smarttube-phone)
+**What it solves:** Phone port of the SmartTube YouTube client with a touch UI, mini player, Shorts and downloads. · `Mobile & Desktop`
+
+> StreamTube: ad-free YouTube for Android phones. A port of SmartTube with a touch UI, in-app mini player, Shorts, comments and downloads.
+
+`Java` · ★ 273 · 16 forks · MIT · created 2026-11-07 · last push 2026-11-23\
+by **shreyas-bangera** (Shreyas Bangera) · 📍 Bangalore
+
+### [m-afham/AirCursor](https://github.com/m-afham/AirCursor)
+**What it solves:** Turns AirPods head tracking into a hands-free mouse pointer on macOS. · `Mobile & Desktop`
+
+> Use your AirPods as a mouse on macOS, turn your head to point, rest on a button to click. Hands-free, private, open source.
+
+`Swift` · ★ 269 · 32 forks · MIT · created 2026-11-04 · last push 2026-11-10\
+by **m-afham** (Muhammad Afham) · 📍 Pakistan
 
 ## Science & Research
 
@@ -1233,6 +1351,22 @@ by **dlt2000** (戴蓝涛\(Dai Lantao\)) · 📍 West Campus, China Jiliang Univ
 
 `C\+\+` · ★ 300 (+26 this week) · 31 forks · MIT · created 2026-10-22 · last push 2026-11-22\
 by **YusufOzmen01** (Yusuf Çınar Özmen) · 📍 Turkey
+
+### [prusa3d/prusa-connect](https://github.com/prusa3d/prusa-connect)
+**What it solves:** Self-hosted local server to manage and print to 3D printer fleets with REST API · `Hardware & IoT`
+
+> Prusa Connect: a local server for your printers
+
+`Go` · ★ 291 · 34 forks · other license · created 2026-11-17 · last push 2026-11-23\
+by **prusa3d** (Prusa3D · org) · 📍 Prague, Czech Republic
+
+### [retropineaple/ForbiddenItlwm](https://github.com/retropineaple/ForbiddenItlwm)
+**What it solves:** Hackintosh Wi-Fi driver that adds AWDL so AirDrop works on Intel Wi-Fi cards. · `Hardware & IoT`
+
+> Because AirDrop was never supposed to work on Intel Wi-Fi.
+
+`C\+\+` · ★ 277 · 35 forks · GPL-2.0 · created 2026-11-10 · last push 2026-11-23\
+by **retropineaple** · 📍 Guwahati, Assam, India
 
 ### [victaphu/glass-home-samsung-tv](https://github.com/victaphu/glass-home-samsung-tv)
 **What it solves:** Minimal photo home screen and app dock for Samsung Tizen TVs, with a photo upload site served by the TV. · `Hardware & IoT`
@@ -1444,6 +1578,14 @@ by **ravencaio** (Caio Magalhães) · 📍 Brazil
 `C` · ★ 338 (+39 this week) · 21 forks · other license · created 2026-10-29 · last push 2026-11-22\
 by **mamcjr** (Marcos Antonio Moura Campos Junior) · 📍 Teresina -PI
 
+### [SamiEnazi/infamous2-port](https://github.com/SamiEnazi/infamous2-port)
+**What it solves:** Statically recompiles a user's own PS3 game copy into a native PC program via Vulkan · `Games & Media`
+
+> inFAMOUS 2 \(PS3\) as a native PC program for Windows and Linux: Setup recompiles YOUR copy on your PC \(static recompilation, Vulkan\). No game files included.
+
+`C` · ★ 289 · 5 forks · MIT · created 2026-11-09 · last push 2026-11-18\
+by **SamiEnazi** (Sami Alenazi) · 📍 Riyadh
+
 ### [fabox-os/Pro-Wave](https://github.com/fabox-os/Pro-Wave)
 **What it solves:** Cross-platform digital audio workstation in Rust with tracks, piano roll, mixer, effects and plug-in hosting. · `Games & Media`
 
@@ -1459,6 +1601,30 @@ by **fabox-os** (Fábio Soares) · 📍 Porto, Portugal
 
 `C\+\+` · ★ 280 (+22 this week) · 19 forks · GPL-3.0 · created 2026-11-03 · last push 2026-11-20\
 by **adrbn** · 📍 rome
+
+### [gokayfem/reference-to-game](https://github.com/gokayfem/reference-to-game)
+**What it solves:** Agent skill and tools that turn visual references into playable Three.js games in the same style. · `Games & Media`
+
+> Input-agnostic reference-to-game skill: preserve style and colors while building playable games. Includes tools, fal asset workflows and four Three.js examples.
+
+`Python` · ★ 272 · 38 forks · MIT · created 2026-11-08 · last push 2026-11-22\
+by **gokayfem** (Gökay Aydoğan) · 📍 Turkey
+
+### [yorulmazsinan/couchsubs](https://github.com/yorulmazsinan/couchsubs)
+**What it solves:** Reads PS5 game subtitles, translates them to Turkish in real time, and overlays them on the TV. · `Games & Media`
+
+> PS5 oyun altyazılarını anlık Türkçeye çevirip TV'de oyunun üstünde gösterir / Real-time translated PS5 subtitles on your TV
+
+`Swift` · ★ 258 · 58 forks · AGPL-3.0 · created 2026-10-31 · last push 2026-11-23\
+by **yorulmazsinan** (Sinan Yorulmaz) · 📍 Turkey
+
+### [varyform/nx-native-wrapper](https://github.com/varyform/nx-native-wrapper)
+**What it solves:** Mac app to build, play and manage nxnative Switch game ports on Mac and iOS devices. · `Games & Media`
+
+> NX Play: a Mac app to build, play, install and manage Switch games with nxnative, on the Mac and on iPhone/iPad
+
+`Swift` · ★ 255 · 30 forks · MIT · created 2026-10-25 · last push 2026-11-21\
+by **varyform** (Oleh Khomei) · 📍 Ukraine
 
 ## Other
 

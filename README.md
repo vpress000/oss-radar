@@ -7,9 +7,9 @@ A weekly directory of **new and fast-rising open-source repositories**, with the
 
 Every listed repo has been checked by Claude to make sure it is real software that solves a specific problem.
 
-_Updated 2026-11-23 · 1,075 repos listed · 5,332 tracked · 311 waiting for review_
+_Updated 2026-11-24 · 1,153 repos listed · 5,160 tracked · 61 waiting for review_
 
-> ⏳ **311 repos are waiting for review.** Claude checks up to 300 a night, and each repo appears here once it passes.
+> ⏳ **61 repos are waiting for review.** Claude checks up to 300 a night, and each repo appears here once it passes.
 
 ## 🔥 Gaining traction this week
 
@@ -235,111 +235,91 @@ by **google-research** (Google Research · org) · 📍 Earth
 
 ### SF Bay Area
 
-#### [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer)
-**What it solves:** Lets researchers steer every MLP neuron in Qwen3.5-4B and browse the resulting outputs. · `AI & ML`
+#### [replit/datacat](https://github.com/replit/datacat)
+**What it solves:** Self-hosted observability stack for metrics, logs, traces, dashboards and alerts accepting OpenTelemetry data. · `Infrastructure & DevOps`
 
-> Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results
+> Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.
 
-`Python` · ★ 2,055 (+63 this week) · 257 forks · MIT · created 2026-10-21 · last push 2026-11-02\
-by **lyramakesmusic** (Lyra C) · 📍 San Francisco
+`TypeScript` · ★ 574 · 61 forks · Apache-2.0 · created 2026-11-17 · last push 2026-11-20\
+by **replit** (Replit · org) · 📍 SF Bay Area
 
-#### [joeblau/subvox](https://github.com/joeblau/subvox)
-**What it solves:** Tests whether AirPods head-motion data can recognize silently mouthed words. · `Science & Research`
+#### [apple/creator-studio-doc-format](https://github.com/apple/creator-studio-doc-format)
+**What it solves:** Reads, creates and edits Keynote presentations in the .keyx interchange format without Keynote or Apple hardware. · `Developer Tools`
 
-`Swift` · ★ 846 (+7 this week) · 125 forks · MIT · created 2026-10-31 · last push 2026-10-31\
-by **joeblau** (Joe Blau) · 📍 San Francisco, CA
+> A Python library for reading, creating, and editing Apple Creator Studio documents, starting with Keynote.
 
-#### [NVIDIA/hyperflare-inference](https://github.com/NVIDIA/hyperflare-inference)
-**What it solves:** Local LLM inference server tuned for NVIDIA SM120/SM121 GPUs, aimed at long agent conversations and tool use. · `AI & ML`
+`Python` · ★ 266 · 7 forks · Apache-2.0 · created 2026-11-16 · last push 2026-11-20\
+by **apple** (Apple · org) · 📍 Cupertino, CA
 
-`Rust` · ★ 828 (+15 this week) · 126 forks · Apache-2.0 · created 2026-10-20 · last push 2026-11-23\
-by **NVIDIA** (NVIDIA Corporation · org) · 📍 2788 San Tomas Expressway, Santa Clara, CA, 95051
+#### [replit/amuse](https://github.com/replit/amuse)
+**What it solves:** Self-hosted personal AI agent that researches, browses live and runs tasks locally with approvals. · `AI & ML`
 
-#### [lxe/phoneuse](https://github.com/lxe/phoneuse)
-**What it solves:** Lets users or AI agents view and control an unmodified iPhone from a computer. · `Mobile & Desktop`
+> Self-hosted personal AI agent: research, a live browser, reminders and small apps, with approvals before actions. Runs on your own computer with an OpenAI key.
 
-> See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.
+`TypeScript` · ★ 148 · 24 forks · Apache-2.0 · created 2026-11-19 · last push 2026-11-19\
+by **replit** (Replit · org) · 📍 SF Bay Area
 
-`Python` · ★ 705 (+32 this week) · 67 forks · MIT · created 2026-11-07 · last push 2026-11-23\
-by **lxe** (Aleksey Smolenchuk) · 📍 San Francisco, CA
+#### [noahcao/FAB](https://github.com/noahcao/FAB)
+**What it solves:** Predicts 2D/3D keypoints and fits SMPL bodies from images and video, with robot retargeting. · `AI & ML`
 
-#### [zeekk0/OpenAmika](https://github.com/zeekk0/OpenAmika)
-**What it solves:** Runs a local AI companion with a Live2D avatar, voice chat and long-term memory. · `AI & ML`
+> FAB: Fast and Accurate Body Estimation
 
-> OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.
+`Python` · ★ 115 · 11 forks · Apache-2.0 · created 2026-11-18 · last push 2026-11-21\
+by **noahcao** (Jinkun Cao) · 📍 san francisco
 
-`Python` · ★ 684 (+15 this week) · 91 forks · other license · created 2026-11-03 · last push 2026-11-21\
-by **zeekk0** (Zeekk - MekaHime) · 📍 Sunnyvale, CA
+#### [nickvasilescu/openman](https://github.com/nickvasilescu/openman)
+**What it solves:** Open-source autonomous AI agent workspace running on an Orgo cloud computer with live view. · `AI & ML`
+
+> OpenMan: open-source autonomous AI agent workspace that runs on your Orgo cloud computer
+
+`TypeScript` · ★ 113 · 68 forks · MIT · created 2026-11-19 · last push 2026-11-19\
+by **nickvasilescu** (Nick Vasilescu) · 📍 Berkeley, CA
 
 → [All SF Bay Area repos found in November 2026](lists/new/2026-11/sf-bay-area.md)
 
 ### Rest of US
 
-#### [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx)
-**What it solves:** Provides 244 code-based pixel art effects for browser games plus sprite sheet export and an agent skill for new ones. · `Games & Media`
+#### [interfere-inc/landmines](https://github.com/interfere-inc/landmines)
+**What it solves:** Oxlint rules that block AI-written code from mocking, flake-masking, or faking test passes. · `Developer Tools`
 
-> 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+> Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.
 
-`JavaScript` · ★ 8,816 (+1,030 this week) · 1,158 forks · MIT · created 2026-10-30 · last push 2026-11-13\
-by **patch-gg** (patch · org) · 📍 United States of America
+`TypeScript` · ★ 710 · 11 forks · MIT · created 2026-10-28 · last push 2026-11-23\
+by **interfere-inc** (Interfere · org) · 📍 United States of America
 
-#### [unclebob/ub-mode](https://github.com/unclebob/ub-mode)
-**What it solves:** Agent skill that enforces disciplined engineering practices paired with quality-gate tools like CRAP and mutation testing. · `Developer Tools`
+#### [awslabs/ai-eval-studio](https://github.com/awslabs/ai-eval-studio)
+**What it solves:** End-to-end LLM evaluation platform that runs evals, optimizes prompts and generates a CI harness. · `AI & ML`
 
-★ 8,382 (+318 this week) · 473 forks · MIT · created 2026-10-25 · last push 2026-11-02\
-by **unclebob** (Robert C. Martin) · 📍 Gurnee, IL
+`Python` · ★ 561 · 5 forks · Apache-2.0 · created 2026-10-27 · last push 2026-11-05\
+by **awslabs** (Amazon Web Services - Labs · org) · 📍 Seattle, WA
 
-#### [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)
-**What it solves:** IELTS vocabulary app with illustrations, audio and FSRS spaced repetition, plus an open word dataset. · `Other`
+#### [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
+**What it solves:** Runs the XNU macOS kernel as a loadable module inside Linux so macOS userspace runs natively. · `Infrastructure & DevOps`
 
-> 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app \+ CC BY 4.0 dataset.
+> XNU as a loadable kernel module inside Linux \(macOS personality for arm64 Linux\)
 
-`TypeScript` · ★ 5,229 (+286 this week) · 1,125 forks · other license · created 2026-10-25 · last push 2026-11-13\
-by **designfuchen** (Boxin Yang) · 📍 Texas
+`Objective-C\+\+` · ★ 558 · 20 forks · other license · created 2026-11-20 · last push 2026-11-23\
+by **AFK-surf** (AFK AI, Inc. · org) · 📍 United States of America
 
-#### [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot)
-**What it solves:** Desktop app for running personal AI agent bots on many models, reachable via chat apps, with local data. · `AI & ML`
+#### [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill)
+**What it solves:** Distills a good agent session into a skill an open-weight model can follow to reproduce the task. · `AI & ML`
 
-> 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70\+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands an…
+> Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task
 
-`Python` · ★ 4,981 (+649 this week) · 114 forks · MIT · created 2026-10-27 · last push 2026-11-22\
-by **modelflare-ai** (Modelflare · org) · 📍 United States of America
+`Python` · ★ 475 · 43 forks · MIT · created 2026-11-21 · last push 2026-11-21\
+by **sybil-solutions** (Sybil Solutions · org) · 📍 United States of America
 
-#### [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)
-**What it solves:** Linux kernel module enabling full-rate FP32-accumulate tensor throughput on RTX 4090 and some Ada GPUs. · `Hardware & IoT`
+#### [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact)
+**What it solves:** Local, agent-agnostic artifacts saved as plain files for slides, designs, sheets, docs and more. · `Developer Tools`
 
-> GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
+> Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.
 
-`C` · ★ 4,965 (+44 this week) · 650 forks · GPL-2.0 · created 2026-10-23 · last push 2026-10-26\
-by **JustAResearcher** (Tim) · 📍 Wisconsin, USA
+`TypeScript` · ★ 393 · 50 forks · Apache-2.0 · created 2026-11-17 · last push 2026-11-23\
+by **JimLiu** (Jim Liu 宝玉) · 📍 Chicago, IL
 
 → [All Rest of US repos found in November 2026](lists/new/2026-11/rest-of-us.md)
 
 ### Outside US
-
-#### [anefzaoui/misterdownloadmanager](https://github.com/anefzaoui/misterdownloadmanager)
-**What it solves:** Cross-platform download manager with segmented downloads, torrents and browser integration. · `Mobile & Desktop`
-
-> misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux
-
-`Rust` · ★ 16,986 (+5,735 this week) · 1,448 forks · GPL-3.0 · created 2026-10-29 · last push 2026-11-23\
-by **anefzaoui** (Ahmed Nefzaoui) · 📍 Dubai, UAE
-
-#### [libracoder/kiri](https://github.com/libracoder/kiri)
-**What it solves:** Lightweight container runtime that replaces Docker Desktop and works with the docker CLI and Compose. · `Infrastructure & DevOps`
-
-> A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
-
-`Rust` · ★ 12,482 (+3,350 this week) · 611 forks · Apache-2.0 · created 2026-11-02 · last push 2026-11-22\
-by **libracoder** (Precious Okwu) · 📍 Lagos, Nigeria
-
-#### [wangzan101/Mika](https://github.com/wangzan101/Mika)
-**What it solves:** Android agent that operates apps and websites on a background screen to complete tasks. · `AI & ML`
-
-> An on-device AI agent for Android that operates apps and the web to get things done for you.
-
-`Kotlin` · ★ 9,710 (+824 this week) · 2,174 forks · Apache-2.0 · created 2026-10-29 · last push 2026-11-23\
-by **wangzan101** (WangZan) · 📍 ShenZhen, China
 
 #### [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything)
 **What it solves:** Incrementally rewrites an app in Rust and verifies each piece against the original's recorded behavior. · `Developer Tools`
@@ -349,57 +329,81 @@ by **wangzan101** (WangZan) · 📍 ShenZhen, China
 `Rust` · ★ 8,340 · 671 forks · MIT · created 2026-11-16 · last push 2026-11-23\
 by **erkamyaman** (erKam) · 📍 Istanbul 🇹🇷
 
-#### [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox)
-**What it solves:** Turns an old Android phone into a desk panel and touch control deck for a computer. · `Mobile & Desktop`
+#### [siliconjungle/shapeshift-labs-ink-studio](https://github.com/siliconjungle/shapeshift-labs-ink-studio)
+**What it solves:** Toolkit to sculpt, animate and simulate pixel-art Gaussian splat scenes from JS · `Games & Media`
 
-> Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.
+> Sculpting, animation and simulation toolkit for pixel-art Gaussian splats
 
-`JavaScript` · ★ 5,222 (+3,252 this week) · 647 forks · MIT · created 2026-11-07 · last push 2026-11-22\
-by **ersinkoc** (Ersin KOÇ) · 📍 Tallinn
+`JavaScript` · ★ 1,051 · 88 forks · MIT · created 2026-11-16 · last push 2026-11-23\
+by **siliconjungle** (James Addison) · 📍 Sydney, Australia
+
+#### [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui)
+**What it solves:** Agent skill that removes AI-tell patterns from UI copy, charts and layouts · `Developer Tools`
+
+> Agent skill that cuts AI tells from UI copy, charts and dashboards: eyebrows, numbering, botsplaining, decorative icons, badges and status dots. Opt-in surface rules.
+
+`TypeScript` · ★ 759 · 16 forks · MIT · created 2026-10-27 · last push 2026-11-22\
+by **felipebasurto** (Felipe Basurto) · 📍 Madrid
+
+#### [os6/nospeaker](https://github.com/os6/nospeaker)
+**What it solves:** Drives a MacBook trackpad haptic motor to produce audible speech and tones · `Hardware & IoT`
+
+> make your macbook's trackpad talk using its haptic motor
+
+`Swift` · ★ 748 · 43 forks · MIT · created 2026-11-22 · last push 2026-11-22\
+by **os6** (cody collier) · 📍 bangkok
+
+#### [Koimsurai/Arke](https://github.com/Koimsurai/Arke)
+**What it solves:** Fast GPU-rendered Windows file explorer that stays responsive on huge folders · `Mobile & Desktop`
+
+> A fast, beautiful file explorer for Windows that never makes you wait. Built with Rust and GPUI.
+
+`Rust` · ★ 692 · 33 forks · AGPL-3.0 · created 2026-11-08 · last push 2026-11-23\
+by **Koimsurai** · 📍 Taipei
 
 → [All Outside US repos found in November 2026](lists/new/2026-11/outside-us.md)
 
 ### Location unknown
 
-#### [storytold/craft-anything](https://github.com/storytold/craft-anything)
-**What it solves:** Inspects websites, apps and games, then has a coding agent build a new version and checks it against the original. · `Developer Tools`
+#### [XinaTian/MROffice](https://github.com/XinaTian/MROffice)
+**What it solves:** Browser editors for documents, spreadsheets, slides and PDF with AI copilot and an MCP server for agents. · `Web & Frontend`
 
-> Craft Anything: understand how any software works, and craft your own.
+> MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and…
 
-`Rust` · ★ 41,649 (+6,712 this week) · 8,265 forks · Apache-2.0 · created 2026-10-31 · last push 2026-11-23\
-by **storytold** (ArtCraft · org)
+`TypeScript` · ★ 2,572 · 297 forks · AGPL-3.0 · created 2026-11-10 · last push 2026-11-23\
+by **XinaTian** (Xina Tian)
 
-#### [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)
-**What it solves:** Android app that runs DeepSeek Harness on the phone or controls it on a remote computer. · `Mobile & Desktop`
+#### [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything)
+**What it solves:** Profiles apps, ports only the hot functions to Rust, and proves they behave the same on recorded calls. · `Developer Tools`
 
-> dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+> Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.
 
-`Dart` · ★ 30,471 (+5,485 this week) · 1,466 forks · AGPL-3.0 · created 2026-10-25 · last push 2026-11-23\
-by **ccch1mneyyy** (Chimney)
+`Rust` · ★ 2,482 · 156 forks · MIT · created 2026-11-21 · last push 2026-11-23\
+by **EL4CTEO**
 
-#### [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
-**What it solves:** Proactive coding agent for a GitHub repo that takes requests from GitHub or Feishu and replies with PRs. · `AI & ML`
+#### [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping)
+**What it solves:** Turns long videos into captioned vertical clips locally using audio cues, captions and a local LLM. · `Games & Media`
 
-> Towards a More Autonomous Agent System
+> Paste a link, get captioned 9:16 clips in \~2 min. Free, local, open-source clipping engine \(audio-first, YouTube captions, local LLM\).
 
-`TypeScript` · ★ 24,309 (+775 this week) · 3,033 forks · MIT · created 2026-10-31 · last push 2026-11-03\
-by **deepseek-ai** (DeepSeek · org)
+`Python` · ★ 2,209 · 132 forks · MIT · created 2026-11-19 · last push 2026-11-21\
+by **iamajmeena**
 
-#### [heydamir/unslop](https://github.com/heydamir/unslop)
-**What it solves:** Coding-agent skill that audits and redesigns generic AI-looking UIs pass by pass. · `Web & Frontend`
+#### [apekshik/anymachine](https://github.com/apekshik/anymachine)
+**What it solves:** Builds working articulated 3D machines and rigged meshes in Blender via an agent pipeline · `Games & Media`
 
-> A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+> Working mechanical rigs from a generated mesh: hinges, legs, and soft goods, every control a 0-1 parameter
 
-`JavaScript` · ★ 20,514 (+3,186 this week) · 1,259 forks · CC-BY-4.0 · created 2026-10-29 · last push 2026-11-15\
-by **heydamir** (Damir Sokolovsky) · 📍 International
+`Python` · ★ 1,107 · 119 forks · MIT · created 2026-11-04 · last push 2026-11-17\
+by **apekshik** (Apekshik Panigrahi)
 
-#### [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv)
-**What it solves:** Ad-free Android TV launcher in the style of tvOS for TVs sold in China. · `Mobile & Desktop`
+#### [AgenticOrgLab/ExecOrchestra](https://github.com/AgenticOrgLab/ExecOrchestra)
+**What it solves:** Framework to orchestrate tools, models, skills and agents into executable plans · `AI & ML`
 
-> 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+> Heterogeneous Resource Routing and Orchestration
 
-`Kotlin` · ★ 13,040 (+828 this week) · 1,131 forks · MIT · created 2026-10-20 · last push 2026-11-23\
-by **pengchujin**
+`Python` · ★ 960 · 20 forks · no license · created 2026-11-12 · last push 2026-11-19\
+by **AgenticOrgLab** (org)
 
 → [All Location unknown repos found in November 2026](lists/new/2026-11/location-unknown.md)
 
