@@ -2,9 +2,9 @@
 
 [← Back to the README](../../../README.md) · Sections: [SF Bay Area](sf-bay-area.md) · [Rest of US](rest-of-us.md) · [Outside US](outside-us.md) · **Location unknown**
 
-485 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-24.
+492 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-25.
 
-**Categories:** [AI & ML](#ai--ml) (125) · [Developer Tools](#developer-tools) (64) · [Infrastructure & DevOps](#infrastructure--devops) (6) · [Data & Databases](#data--databases) (5) · [Security](#security) (24) · [Web & Frontend](#web--frontend) (29) · [Mobile & Desktop](#mobile--desktop) (82) · [Science & Research](#science--research) (18) · [Hardware & IoT](#hardware--iot) (17) · [Finance & Crypto](#finance--crypto) (6) · [Games & Media](#games--media) (106) · [Other](#other) (3)
+**Categories:** [AI & ML](#ai--ml) (127) · [Developer Tools](#developer-tools) (64) · [Infrastructure & DevOps](#infrastructure--devops) (6) · [Data & Databases](#data--databases) (5) · [Security](#security) (24) · [Web & Frontend](#web--frontend) (30) · [Mobile & Desktop](#mobile--desktop) (82) · [Science & Research](#science--research) (18) · [Hardware & IoT](#hardware--iot) (17) · [Finance & Crypto](#finance--crypto) (6) · [Games & Media](#games--media) (110) · [Other](#other) (3)
 
 ## AI & ML
 
@@ -964,6 +964,14 @@ by **affifuddin-hazam** (Apiz Pudin)
 `TypeScript` · ★ 260 · 1 forks · MIT-0 · created 2026-10-27 · last push 2026-11-23\
 by **opencraft-app** (OpenCraft · org)
 
+### [fahsq72lan/dsh-guide-tutor](https://github.com/fahsq72lan/dsh-guide-tutor)
+**What it solves:** Guides Windows users through tasks step by step with screen annotations, a step panel and voice narration. · `AI & ML`
+
+> 屏幕教学助手：悬浮球 \+ 实时标注 \+ 步骤面板（DeepSeek Harness 插件）
+
+`PowerShell` · ★ 253 · 0 forks · no license · created 2026-11-13 · last push 2026-11-14\
+by **fahsq72lan**
+
 ### [VoxDance-Lab/VoxMel](https://github.com/VoxDance-Lab/VoxMel)
 **What it solves:** Zero-shot TTS that models mel-spectrograms autoregressively via wavelet factorization, with weights. · `AI & ML`
 
@@ -971,6 +979,14 @@ by **opencraft-app** (OpenCraft · org)
 
 `Python` · ★ 253 · 18 forks · Apache-2.0 · created 2026-11-11 · last push 2026-11-21\
 by **VoxDance-Lab** (VoxDance Lab · org)
+
+### [xyc999-ai/go-bot](https://github.com/xyc999-ai/go-bot)
+**What it solves:** Self-hosted personal AI agent with browser automation, office documents, memory and an HTTP API. · `AI & ML`
+
+> Go implementation of DeepSeek Harness and self-hosted personal agent.
+
+`Go` · ★ 252 · 11 forks · MIT · created 2026-11-15 · last push 2026-11-23\
+by **xyc999-ai**
 
 ### [Balanov/uncut](https://github.com/Balanov/uncut)
 **What it solves:** Minimal headless coding-agent CLI that sends full context and never silently truncates output. · `AI & ML`
@@ -2011,6 +2027,14 @@ by **yurigok** (Yuri Gokoryan)
 
 `TypeScript` · ★ 255 · 24 forks · AGPL-3.0 · created 2026-11-02 · last push 2026-11-21\
 by **sysfora** (Sysfora)
+
+### [dastyar-io/dastkhat-font](https://github.com/dastyar-io/dastkhat-font)
+**What it solves:** Persian and Latin UI font family with several dot styles, variable weights and webfonts. · `Web & Frontend`
+
+> it's
+
+`Python` · ★ 251 · 5 forks · OFL-1.1 · created 2026-11-08 · last push 2026-11-18\
+by **dastyar-io** (Dastyar Team · org)
 
 ## Mobile & Desktop
 
@@ -3821,6 +3845,38 @@ by **timboat**
 
 `HTML` · ★ 254 · 47 forks · no license · created 2026-11-13 · last push 2026-11-13\
 by **ChetasLua** (Chetas Lua)
+
+### [DosukaSOL/PushFPS](https://github.com/DosukaSOL/PushFPS)
+**What it solves:** Raises console capture-card video from 30 FPS to 60 or 120 FPS using real-time frame generation on Windows. · `Games & Media`
+
+> PushFPS: push 30 FPS console games to 60 or 120 FPS. Real-time AI frame generation for any capture card on Windows, with NVIDIA RTX and AMD support. Free and open source, based on Veyra.
+
+`C\+\+` · ★ 252 · 23 forks · GPL-3.0 · created 2026-11-12 · last push 2026-11-23\
+by **DosukaSOL** (Dosuka)
+
+### [LVL-VR/GTAVXR](https://github.com/LVL-VR/GTAVXR)
+**What it solves:** Adds full PCVR support to GTA V Story Mode, with 6DoF tracking, motion controls and full-body IK. · `Games & Media`
+
+> GTAVXR by LVL is a complete VR transformation of Grand Theft Auto V Legacy for PCVR, bringing Los Santos to life with native stereoscopic rendering, full 6DoF tracking, motion controls, full-body IK, physical interactions and collisions, realistic weapon handling and reloading, interactive vehicle…
+
+`C\+\+` · ★ 252 · 15 forks · no license · created 2026-11-11 · last push 2026-11-18\
+by **LVL-VR** (org)
+
+### [Brandon04Gonzalez/p5r-android](https://github.com/Brandon04Gonzalez/p5r-android)
+**What it solves:** Runs a user-supplied Persona 5 Royal Switch dump natively on arm64 Android by reimplementing system services. · `Games & Media`
+
+> Persona 5 Royal for Android: a native port that runs your own dump \(the APK holds no game code or data\)
+
+`C\+\+` · ★ 250 · 36 forks · MIT · created 2026-10-25 · last push 2026-11-20\
+by **Brandon04Gonzalez** (BossTrash)
+
+### [Mabec-games/Gran-Turismo-6-PC](https://github.com/Mabec-games/Gran-Turismo-6-PC)
+**What it solves:** Sets up Gran Turismo 6 on PC through a patched RPCS3 build with one-click updates, fixes and wheel support. · `Games & Media`
+
+> Gran Turismo 6 on PC \(Linux & Windows\): GT6-tuned Launcher, one-click setup, modern graphics, wheels, mods, LAN and more.
+
+`Python` · ★ 250 · 4 forks · GPL-3.0 · created 2026-11-06 · last push 2026-11-23\
+by **Mabec-games** (Mabec)
 
 ## Other
 

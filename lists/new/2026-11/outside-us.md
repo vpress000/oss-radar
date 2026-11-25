@@ -2,9 +2,9 @@
 
 [← Back to the README](../../../README.md) · Sections: [SF Bay Area](sf-bay-area.md) · [Rest of US](rest-of-us.md) · **Outside US** · [Location unknown](location-unknown.md)
 
-203 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-24.
+204 repos first found this month, each created no more than 30 days earlier. Grouped by category and sorted by stars; stars as of 2026-11-25.
 
-**Categories:** [AI & ML](#ai--ml) (46) · [Developer Tools](#developer-tools) (33) · [Infrastructure & DevOps](#infrastructure--devops) (12) · [Data & Databases](#data--databases) (3) · [Security](#security) (11) · [Web & Frontend](#web--frontend) (10) · [Mobile & Desktop](#mobile--desktop) (33) · [Science & Research](#science--research) (5) · [Hardware & IoT](#hardware--iot) (18) · [Finance & Crypto](#finance--crypto) (3) · [Games & Media](#games--media) (28) · [Other](#other) (1)
+**Categories:** [AI & ML](#ai--ml) (47) · [Developer Tools](#developer-tools) (33) · [Infrastructure & DevOps](#infrastructure--devops) (12) · [Data & Databases](#data--databases) (3) · [Security](#security) (11) · [Web & Frontend](#web--frontend) (10) · [Mobile & Desktop](#mobile--desktop) (33) · [Science & Research](#science--research) (5) · [Hardware & IoT](#hardware--iot) (18) · [Finance & Crypto](#finance--crypto) (3) · [Games & Media](#games--media) (28) · [Other](#other) (1)
 
 ## AI & ML
 
@@ -371,6 +371,14 @@ by **Vaibhaav-Tiwari** (Vaibhaav Tiwari) · 📍 Gurgaon
 
 `Python` · ★ 255 · 3 forks · no license · created 2026-10-27 · last push 2026-11-05\
 by **dongguanting** (KABI) · 📍 Beijing, China
+
+### [poco-ai/agentero-dsh-plugin](https://github.com/poco-ai/agentero-dsh-plugin)
+**What it solves:** Brings a local research paper library, PDF reader and notes into an agent chat for cited literature work. · `AI & ML`
+
+> 给 DeepSeek Harness 用的科研文献库插件：搜论文、带出处、审批入库、把笔记线索交给同会话其他插件。Academic research library for DSH — search, cite, approve imports, hand off notes.
+
+`TypeScript` · ★ 252 · 12 forks · no license · created 2026-10-30 · last push 2026-11-23\
+by **poco-ai** (Poco-AI · org) · 📍 China
 
 ## Developer Tools
 
